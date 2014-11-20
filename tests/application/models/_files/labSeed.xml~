@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<dataset>
+  <lab id="1" labname="Best Lab, Inc" labnum="lab-007"
+       description="The best lab in all of Africa capable of doing almost anything."
+       street="No. 19 Fifth Link Road "
+       street2="Cantonments"
+       city="Accra"
+       state=""
+       country="Ghana"
+       county_code="GH"
+       postcode=""
+       level="R"
+       affiliation="R"
+       />
+</dataset>
