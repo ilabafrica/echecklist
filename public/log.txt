@@ -61422,3 +61422,1384 @@ India 100076
 2014-11-25 2:01:48 - INFO  --> in fillout init 
 2014-11-25 2:01:48 - INFO  --> in fillout init 
 2014-11-25 2:01:48 - INFO  --> in fillout init 
+2014-11-25 2:08:18 - INFO  --> in fillout init 
+2014-11-25 2:08:18 - INFO  --> audit:  
+2014-11-25 2:08:18 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:08:18 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:08:18 - INFO  --> Find:  
+2014-11-25 2:08:18 - INFO  --> Find: In display 
+2014-11-25 2:08:18 - INFO  --> SQL: select dialog_id from dialog where field_name='lab/select' 
+2014-11-25 2:08:18 - INFO  --> SQL: select * from dialog where dialog_id = 8 order by position 
+2014-11-25 2:08:18 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:08:18 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:08:18 - INFO  --> in fillout init 
+2014-11-25 2:08:18 - INFO  --> in fillout init 
+2014-11-25 2:08:18 - INFO  --> SQL: select distinct country from lab 
+2014-11-25 2:08:18 - INFO  --> SELECT: country -   
+2014-11-25 2:08:18 - INFO  --> in fillout init 
+2014-11-25 2:08:18 - INFO  --> in fillout init 
+2014-11-25 2:08:18 - INFO  --> in fillout init 
+2014-11-25 2:08:22 - INFO  --> in fillout init 
+2014-11-25 2:08:22 - INFO  --> audit:  
+2014-11-25 2:08:22 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:08:22 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:08:22 - INFO  --> Find:  
+2014-11-25 2:08:22 - INFO  --> SQL: select dialog_id from dialog where field_name='lab/select' 
+2014-11-25 2:08:22 - INFO  --> SQL: select * from dialog where dialog_id = 8 order by position 
+2014-11-25 2:08:22 - INFO  --> VAL:  
+2014-11-25 2:08:22 - INFO  --> VAL:  
+2014-11-25 2:08:22 - INFO  --> VAL:  
+2014-11-25 2:08:22 - INFO  --> VAL:  
+2014-11-25 2:08:22 - INFO  --> COLL: Array
+(
+    [country] => USA
+    [labname] => 
+    [labnum] => 
+    [submit_button] => Select
+)
+ 
+2014-11-25 2:08:22 - INFO  --> HC: Array
+(
+    [country] => USA
+    [labname] => 
+    [labnum] => 
+    [submit_button] => Select
+)
+ 
+2014-11-25 2:08:22 - INFO  --> ECT: 0 
+2014-11-25 2:08:22 - INFO  --> Find: In post 
+2014-11-25 2:08:22 - INFO  --> tdlab: Array
+(
+    [country] => USA
+    [labname] => 
+    [labnum] => 
+    [submit_button] => Select
+)
+ 
+2014-11-25 2:08:22 - INFO  --> Lab:getLabs: Array
+(
+    [country] => USA
+    [labname] => 
+    [labnum] => 
+    [submit_button] => Select
+)
+ 0, 1000 
+2014-11-25 2:08:22 - INFO  --> getLabs: select * from lab where 1=1  and country = 'USA'  
+2014-11-25 2:08:22 - INFO  --> SQL: select * from lab where 1=1  and country = 'USA'  
+2014-11-25 2:08:22 - INFO  --> Best Lab, Inc -- USA 
+2014-11-25 2:08:22 - INFO  --> Test lab -- USA 
+2014-11-25 2:08:22 - INFO  --> Number One Lab, Inc -- USA 
+2014-11-25 2:08:22 - INFO  --> Better Lab, Inc -- USA 
+2014-11-25 2:08:22 - INFO  --> Good Lab, Inc -- USA 
+2014-11-25 2:08:22 - INFO  --> CDC Lab -- USA 
+2014-11-25 2:08:22 - INFO  --> Jay Lab at Home -- USA 
+2014-11-25 2:08:22 - INFO  --> SQL: select dialog_id from dialog where field_name='lab/select' 
+2014-11-25 2:08:22 - INFO  --> SQL: select * from dialog where dialog_id = 8 order by position 
+2014-11-25 2:08:22 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:08:22 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:08:22 - INFO  --> in fillout init 
+2014-11-25 2:08:22 - INFO  --> in fillout init 
+2014-11-25 2:08:22 - INFO  --> SQL: select distinct country from lab 
+2014-11-25 2:08:22 - INFO  --> SELECT: country - USA USA 
+2014-11-25 2:08:22 - INFO  --> in fillout init 
+2014-11-25 2:08:22 - INFO  --> in fillout init 
+2014-11-25 2:08:22 - INFO  --> in fillout init 
+2014-11-25 2:08:22 - INFO  --> Error: Array
+(
+)
+ 
+2014-11-25 2:08:28 - INFO  --> in fillout init 
+2014-11-25 2:08:28 - INFO  --> audit:  
+2014-11-25 2:08:28 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:08:28 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:08:28 - INFO  --> SELLAB: Array
+(
+    [id] => 71
+    [labname] => CDC Lab
+    [labnum] => CDC001
+    [street] => 1 Main St.
+    [street2] => 
+    [street3] => 
+    [city] => 
+    [state] => 
+    [country] => USA
+    [postcode] => 
+    [labtel] => 
+    [labfax] => 
+    [labemail] => 
+    [lablevel] => NATIONAL
+    [labaffil] => PUBLIC
+    [labaffil_other] => 
+    [slmta_labtype] => -
+)
+ 
+2014-11-25 2:08:28 - INFO  --> AT: Array
+(
+    [id] => 71
+    [labname] => CDC Lab
+    [labnum] => CDC001
+    [street] => 1 Main St.
+    [street2] => 
+    [street3] => 
+    [city] => 
+    [state] => 
+    [country] => USA
+    [postcode] => 
+    [labtel] => 
+    [labfax] => 
+    [labemail] => 
+    [lablevel] => NATIONAL
+    [labaffil] => PUBLIC
+    [labaffil_other] => 
+    [slmta_labtype] => -
+)
+ 
+2014-11-25 2:08:28 - INFO  --> in fillout init 
+2014-11-25 2:08:28 - INFO  --> audit:  
+2014-11-25 2:08:28 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:08:28 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:08:28 - INFO  --> MT aud init: 1416899308.5173 
+2014-11-25 2:08:28 - INFO  --> SQL: select a.id audit_id, a.end_date, a.cohort_id, a.status, a.audit_type,
+       a.slipta_official, a.slmta_type, l.id lab_id,
+       l.labname, l.labnum, l.country, l.lablevel, l.labaffil, ao.owner
+  from lab l, audit a, audit_owner ao
+ where a.id = ao.audit_id and ao.owner = 21
+   and l.id = a.lab_id and a.status = 'INCOMPLETE' 
+2014-11-25 2:08:28 - INFO  --> SQL: select dialog_id from dialog where field_name='audit/main' 
+2014-11-25 2:08:28 - INFO  --> SQL: select * from dialog where dialog_id = 7 order by position 
+2014-11-25 2:08:28 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:08:28 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:08:28 - INFO  --> in fillout init 
+2014-11-25 2:08:36 - INFO  --> in fillout init 
+2014-11-25 2:08:36 - INFO  --> audit:  
+2014-11-25 2:08:36 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:08:36 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:08:36 - INFO  --> MT aud init: 1416899316.2097 
+2014-11-25 2:08:36 - INFO  --> SQL:  select a.id audit_id, a.end_date, a.cohort_id, a.status,
+        a.slmta_type, l.id lab_id, a.audit_type tag,
+        l.labname, l.labnum, l.country, l.lablevel, l.labaffil,
+        ao.owner
+   from lab l, audit a left join audit_owner ao on
+        (ao.audit_id = a.id and ao.owner = 21)
+  where a.id = 46 and l.id = a.lab_id 
+2014-11-25 2:08:36 - INFO  --> in fillout init 
+2014-11-25 2:08:36 - INFO  --> SQL:  select a.id audit_id, a.end_date, a.cohort_id, a.status,
+        a.slmta_type, l.id lab_id, a.audit_type tag,
+        l.labname, l.labnum, l.country, l.lablevel, l.labaffil,
+        ao.owner
+   from lab l, audit a left join audit_owner ao on
+        (ao.audit_id = a.id and ao.owner = 21)
+  where a.id = 46 and l.id = a.lab_id 
+2014-11-25 2:08:36 - INFO  --> SQL:  select a.id audit_id, a.end_date, a.cohort_id, a.status,
+        a.slmta_type, l.id lab_id, a.audit_type tag,
+        l.labname, l.labnum, l.country, l.lablevel, l.labaffil,
+        ao.owner
+   from lab l, audit a left join audit_owner ao on
+        (ao.audit_id = a.id and ao.owner = 21)
+  where a.id = 46 and l.id = a.lab_id 
+2014-11-25 2:08:36 - INFO  --> audit: Array
+(
+    [audit_id] => 46
+    [end_date] => 0000-00-00
+    [cohort_id] => 12
+    [status] => INCOMPLETE
+    [slmta_type] => SURV
+    [lab_id] => 10
+    [tag] => SLIPTA
+    [labname] => Test lab
+    [labnum] => tl56
+    [country] => USA
+    [lablevel] => DISTRICT
+    [labaffil] => OTHER
+    [owner] => 21
+)
+ 
+2014-11-25 2:08:36 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:08:36 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:08:36 - INFO  --> MT aud init: 1416899316.4387 
+2014-11-25 2:08:36 - INFO  --> SQL: select a.id audit_id, a.end_date, a.cohort_id, a.status, a.audit_type,
+       a.slipta_official, a.slmta_type, l.id lab_id,
+       l.labname, l.labnum, l.country, l.lablevel, l.labaffil, ao.owner
+  from lab l, audit a, audit_owner ao
+ where a.id = ao.audit_id and ao.owner = 21
+   and l.id = a.lab_id and a.status = 'INCOMPLETE' 
+2014-11-25 2:08:36 - INFO  --> SQL: select dialog_id from dialog where field_name='audit/main' 
+2014-11-25 2:08:36 - INFO  --> SQL: select * from dialog where dialog_id = 7 order by position 
+2014-11-25 2:08:36 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:08:36 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:08:36 - INFO  --> in fillout init 
+2014-11-25 2:08:44 - INFO  --> in fillout init 
+2014-11-25 2:08:44 - INFO  --> SQL:  select a.id audit_id, a.end_date, a.cohort_id, a.status,
+        a.slmta_type, l.id lab_id, a.audit_type tag,
+        l.labname, l.labnum, l.country, l.lablevel, l.labaffil,
+        ao.owner
+   from lab l, audit a left join audit_owner ao on
+        (ao.audit_id = a.id and ao.owner = 21)
+  where a.id = 46 and l.id = a.lab_id 
+2014-11-25 2:08:44 - INFO  --> SQL:  select a.id audit_id, a.end_date, a.cohort_id, a.status,
+        a.slmta_type, l.id lab_id, a.audit_type tag,
+        l.labname, l.labnum, l.country, l.lablevel, l.labaffil,
+        ao.owner
+   from lab l, audit a left join audit_owner ao on
+        (ao.audit_id = a.id and ao.owner = 21)
+  where a.id = 46 and l.id = a.lab_id 
+2014-11-25 2:08:44 - INFO  --> audit: Array
+(
+    [audit_id] => 46
+    [end_date] => 0000-00-00
+    [cohort_id] => 12
+    [status] => INCOMPLETE
+    [slmta_type] => SURV
+    [lab_id] => 10
+    [tag] => SLIPTA
+    [labname] => Test lab
+    [labnum] => tl56
+    [country] => USA
+    [lablevel] => DISTRICT
+    [labaffil] => OTHER
+    [owner] => 21
+)
+ 
+2014-11-25 2:08:44 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:08:44 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:08:44 - INFO  --> MT aud init: 1416899324.9572 
+2014-11-25 2:08:44 - INFO  --> in fillout init 
+2014-11-25 2:08:44 - INFO  --> This is a test 
+2014-11-25 2:08:45 - INFO  --> SQL: select template_id from audit where id = 46 
+2014-11-25 2:08:45 - INFO  --> SQL:  select a.id audit_id, a.end_date, a.cohort_id, a.status,
+        a.slmta_type, l.id lab_id, a.audit_type tag,
+        l.labname, l.labnum, l.country, l.lablevel, l.labaffil,
+        ao.owner
+   from lab l, audit a left join audit_owner ao on
+        (ao.audit_id = a.id and ao.owner = 21)
+  where a.id = 46 and l.id = a.lab_id 
+2014-11-25 2:08:45 - INFO  --> SQL: select r.varname, r.row_type, r.score, p.page_num, p.page_id,
+       r.prefix, r.heading, r.text, r.info, r.element_count, r.required,
+       lp.row_id lprowid, lp.def lpdefault, lp.EN lplang,
+       lh.row_id lhrowid, lh.def lhdefault, lh.EN lhlang,
+       lt.row_id ltrowid, lt.def ltdefault, lt.EN ltlang,
+       li.row_id lirowid, li.def lidefault, li.EN lilang
+  from page p, template_row r left join lang lp on (r.prefix = lp.row_id)
+       left join lang lh on (r.heading = lh.row_id)
+       left join lang lt on (r.text = lt.row_id)
+       left join lang li on (r.info = li.row_id)
+ where r.template_id = 1
+   and p.page_id = r.page_id
+ order by r.part, r.level1, r.level2, r.level3, r.level4 
+2014-11-25 2:08:48 - INFO  --> SQL: select * from audit_data where audit_id = 46 
+2014-11-25 2:08:49 - INFO  --> VALUE: Array
+(
+    [action] => 
+    [labaddr] => 1234 row Lane
+Norx, GA
+USA 88888
+    [labaffil] => OTHER
+    [labaffil_other] => 
+    [labemail] => 3
+    [labfax] => 8
+    [lablevel] => DISTRICT
+    [labname] => Test lab
+    [labnum] => tl56
+    [labtel] => 88888888
+    [slmta_baseline_date] => 01/25/2013
+    [slmta_baseline_score] => 206
+    [slmta_baseline_stars] => 3
+    [slmta_cohortid] => 12
+    [slmta_dola] => 04/25/2013
+    [slmta_exitaudit_date] => 03/25/2013
+    [slmta_exit_score] => 226
+    [slmta_exit_stars] => 4
+    [slmta_labtype] => 1
+    [slmta_la_score] => 246
+    [slmta_pas] => 5
+    [slmta_tests_int] => 700
+    [slmta_type] => SERV
+    [slmta_workshop_date] => 02/25/2013
+    [slmta_year_tests_int] => 800
+)
+ 
+2014-11-25 2:08:49 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:08:49 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:08:49 - INFO  --> ROW:  - img 
+2014-11-25 2:08:49 - INFO  --> ROW:  - main_heading 
+2014-11-25 2:08:49 - INFO  --> ROW:  - main2 
+2014-11-25 2:08:49 - INFO  --> ROW:  - banner_rev 
+2014-11-25 2:08:49 - INFO  --> ROW:  - banner_rev 
+2014-11-25 2:08:49 - INFO  --> ROW:  - banner_rev 
+2014-11-25 2:08:49 - INFO  --> ROW:  - part_head 
+2014-11-25 2:08:49 - INFO  --> ROW:  - sec_head_lab 
+2014-11-25 2:08:49 - INFO  --> ROW: slmta_type - slmta_type 
+2014-11-25 2:08:49 - INFO  --> ROW: slmta_tests_int - integer_field 
+2014-11-25 2:08:49 - INFO  --> ROW: slmta_year_tests_int - integer_field 
+2014-11-25 2:08:49 - INFO  --> ROW: slmta_cohortid - string_field 
+2014-11-25 2:08:49 - INFO  --> ROW: slmta_labtype - string_ro 
+2014-11-25 2:08:49 - INFO  --> ROW: slmta_baseline_date - date_field 
+2014-11-25 2:08:49 - INFO  --> ROW: slmta_workshop_date - date_field 
+2014-11-25 2:08:49 - INFO  --> ROW: slmta_exitaudit_date - date_field 
+2014-11-25 2:08:49 - INFO  --> ROW: slmta_baseline_score - integer_field 
+2014-11-25 2:08:49 - INFO  --> ROW: slmta_baseline_stars - stars 
+2014-11-25 2:08:49 - INFO  --> ROW: slmta_exit_score - integer_field 
+2014-11-25 2:08:49 - INFO  --> ROW: slmta_exit_stars - stars 
+2014-11-25 2:08:49 - INFO  --> ROW: slmta_dola - date_field 
+2014-11-25 2:08:49 - INFO  --> ROW: slmta_la_score - integer_field 
+2014-11-25 2:08:49 - INFO  --> ROW: slmta_pas - stars 
+2014-11-25 2:08:49 - INFO  --> ROW:  - sec_head_lab 
+2014-11-25 2:08:49 - INFO  --> ROW: slipta_official - slipta_official 
+2014-11-25 2:08:49 - INFO  --> ROW: start_date - date_field 
+2014-11-25 2:08:49 - INFO  --> ROW: end_date - slipta_date_field 
+2014-11-25 2:08:49 - INFO  --> ROW: dola - date_field 
+2014-11-25 2:08:49 - INFO  --> ROW: names_affil_t - text_field 
+2014-11-25 2:08:49 - INFO  --> ROW: labname - string_ro 
+2014-11-25 2:08:49 - INFO  --> ROW: labnum - string_ro 
+2014-11-25 2:08:49 - INFO  --> ROW: labaddr - text_ro 
+2014-11-25 2:08:49 - INFO  --> ROW: labtel - string_ro 
+2014-11-25 2:08:49 - INFO  --> ROW: labfax - string_ro 
+2014-11-25 2:08:49 - INFO  --> ROW: labemail - string_ro 
+2014-11-25 2:08:49 - INFO  --> ROW: labhead - string_field 
+2014-11-25 2:08:49 - INFO  --> ROW: labheadtel - string_field 
+2014-11-25 2:08:49 - INFO  --> ROW: labheadteltype - slipta_tel_type 
+2014-11-25 2:08:49 - INFO  --> AF: OTHER 
+2014-11-25 2:08:49 - INFO  --> ROW: lablevel - string_ro 
+2014-11-25 2:08:49 - INFO  --> ROW: labaffil - string_ro 
+2014-11-25 2:08:49 - INFO  --> ROW: labaffil_other - string_ro 
+2014-11-25 2:08:49 - INFO  --> ROW:  - sec_head_lab 
+2014-11-25 2:08:49 - INFO  --> ROW:  - tab_head3 
+2014-11-25 2:08:49 - INFO  --> ROW: prof_deg - prof_info 
+2014-11-25 2:08:49 - INFO  --> ROW: prof_dip - prof_info 
+2014-11-25 2:08:49 - INFO  --> ROW: prof_cert - prof_info 
+2014-11-25 2:08:49 - INFO  --> ROW: microscopist - prof_info 
+2014-11-25 2:08:49 - INFO  --> ROW: dataclerk - prof_info 
+2014-11-25 2:08:49 - INFO  --> ROW: phlebo - prof_info 
+2014-11-25 2:08:49 - INFO  --> ROW: cleaner - prof_info 
+2014-11-25 2:08:49 - INFO  --> ROW: cleaner_dedicated - prof_info_yn 
+2014-11-25 2:08:49 - INFO  --> ROW: cleaner_trained - prof_info_yn 
+2014-11-25 2:08:49 - INFO  --> ROW: cleaner - prof_info_yn_html 
+2014-11-25 2:08:49 - INFO  --> ROW: driver - prof_info 
+2014-11-25 2:08:49 - INFO  --> ROW: driver_dedicated - prof_info_yn 
+2014-11-25 2:08:49 - INFO  --> ROW: driver_trained - prof_info_yn 
+2014-11-25 2:08:49 - INFO  --> ROW: driver - prof_info_yn_html 
+2014-11-25 2:08:49 - INFO  --> ROW: other - prof_info 
+2014-11-25 2:08:49 - INFO  --> ROW:  - info_i 
+2014-11-25 2:08:49 - INFO  --> ROW:  - sec_head_lab 
+2014-11-25 2:08:49 - INFO  --> ROW:  - sec_head_lab_info 
+2014-11-25 2:08:49 - INFO  --> ROW: sufficient_space - prof_info_yn_suff 
+2014-11-25 2:08:49 - INFO  --> ROW: sufficient_equipment - prof_info_yn_suff 
+2014-11-25 2:08:49 - INFO  --> ROW: sufficient_supplies - prof_info_yn_suff 
+2014-11-25 2:08:49 - INFO  --> ROW: sufficient_personnel - prof_info_yn_suff 
+2014-11-25 2:08:49 - INFO  --> ROW: sufficient_infra - prof_info_yn_suff 
+2014-11-25 2:08:49 - INFO  --> ROW: sufficient_other_data - string_field 
+2014-11-25 2:08:49 - INFO  --> ROW: sufficient_other - prof_info_yn_suff 
+2014-11-25 2:08:49 - INFO  --> ROW:  - banner_rev_border 
+2014-11-25 2:08:49 - INFO  --> ROW:  - banner_rev_border 
+2014-11-25 2:08:49 - INFO  --> ROW:  - full 
+2014-11-25 2:08:49 - INFO  --> ROW:  - sec_elem_info_normal 
+2014-11-25 2:08:49 - INFO  --> ROW: s01 - sec_head 
+2014-11-25 2:08:49 - INFO  --> SECHEAD: 1 DOCUMENTS AND RECORDS 
+2014-11-25 2:08:49 - INFO  --> ROW: s0101 - sub_sec_head_ro 
+2014-11-25 2:08:49 - INFO  --> MSCORE: 4 
+2014-11-25 2:08:49 - INFO  --> ROW:  - sec_element_info 
+2014-11-25 2:08:49 - INFO  --> ROW: s010101 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s010102 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s010103 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s010104 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s010105 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s010106 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:49 - INFO  --> ROW: s0102 - sub_sec_head 
+2014-11-25 2:08:49 - INFO  --> s0102 ->  
+2014-11-25 2:08:49 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:49 - INFO  --> ROW: s0103 - sub_sec_head 
+2014-11-25 2:08:49 - INFO  --> s0103 ->  
+2014-11-25 2:08:49 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:49 - INFO  --> ROW: s0104 - sub_sec_head_ro 
+2014-11-25 2:08:49 - INFO  --> MSCORE: 5 
+2014-11-25 2:08:49 - INFO  --> ROW:  - sec_element_info 
+2014-11-25 2:08:49 - INFO  --> ROW: s010401 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s010402 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s010403 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s010404 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s010405 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s010406 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s010407 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s010408 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s010409 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s010410 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s010411 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s010412 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s010413 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s010414 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s010415 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s010416 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s010417 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s010418 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s010419 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s010420 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s010421 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s010422 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s010423 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s010424 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s010425 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s010426 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s010427 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s010428 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s010429 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s010430 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s010431 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s010432 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:49 - INFO  --> ROW: s0105 - sub_sec_head 
+2014-11-25 2:08:49 - INFO  --> s0105 ->  
+2014-11-25 2:08:49 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:49 - INFO  --> ROW: s0106 - sub_sec_head 
+2014-11-25 2:08:49 - INFO  --> s0106 ->  
+2014-11-25 2:08:49 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:49 - INFO  --> ROW: s0107 - sub_sec_head 
+2014-11-25 2:08:49 - INFO  --> s0107 ->  
+2014-11-25 2:08:49 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:49 - INFO  --> ROW: s0108 - sub_sec_head 
+2014-11-25 2:08:49 - INFO  --> s0108 ->  
+2014-11-25 2:08:49 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:49 - INFO  --> ROW: s0109 - sub_sec_head 
+2014-11-25 2:08:49 - INFO  --> s0109 ->  
+2014-11-25 2:08:49 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:49 - INFO  --> ROW: s0110 - sub_sec_head 
+2014-11-25 2:08:49 - INFO  --> s0110 ->  
+2014-11-25 2:08:49 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:49 - INFO  --> ROW: s01_total - sec_total 
+2014-11-25 2:08:49 - INFO  --> ROW:  - sec_elem_info_normal 
+2014-11-25 2:08:49 - INFO  --> ROW: s02 - sec_head 
+2014-11-25 2:08:49 - INFO  --> SECHEAD: 2 MANAGEMENT REVIEWS 
+2014-11-25 2:08:49 - INFO  --> ROW: s0201 - sub_sec_head 
+2014-11-25 2:08:49 - INFO  --> s0201 ->  
+2014-11-25 2:08:49 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:49 - INFO  --> ROW: s0202 - sub_sec_head_ro 
+2014-11-25 2:08:49 - INFO  --> MSCORE: 5 
+2014-11-25 2:08:49 - INFO  --> ROW:  - sec_element_info 
+2014-11-25 2:08:49 - INFO  --> ROW: s020201 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s020202 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s020203 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s020204 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s020205 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s020206 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s020207 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s020208 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s020209 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s020210 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s020211 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s020212 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s020213 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s020214 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s020215 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s020216 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s020217 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s020218 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s020219 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s020220 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s020221 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s020222 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s020223 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:49 - INFO  --> ROW: s0203 - sub_sec_head_ro 
+2014-11-25 2:08:49 - INFO  --> MSCORE: 5 
+2014-11-25 2:08:49 - INFO  --> ROW:  - sec_element_info 
+2014-11-25 2:08:49 - INFO  --> ROW: s020301 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s020302 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s020303 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s020304 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s020305 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s020306 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s020307 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s020308 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s020309 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s020310 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s020311 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s020312 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s020313 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s020314 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s020315 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s020316 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s020317 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s020318 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s020319 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s020320 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s020321 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s020322 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW: s020323 - sec_element 
+2014-11-25 2:08:49 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:49 - INFO  --> ROW: s0204 - sub_sec_head 
+2014-11-25 2:08:49 - INFO  --> s0204 ->  
+2014-11-25 2:08:49 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:49 - INFO  --> ROW: s0205 - sub_sec_head 
+2014-11-25 2:08:49 - INFO  --> s0205 ->  
+2014-11-25 2:08:49 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:49 - INFO  --> ROW: s02_total - sec_total 
+2014-11-25 2:08:49 - INFO  --> ROW:  - sec_elem_info_normal 
+2014-11-25 2:08:49 - INFO  --> ROW: s03 - sec_head 
+2014-11-25 2:08:49 - INFO  --> SECHEAD: 3 ORGANIZATION & PERSONNEL 
+2014-11-25 2:08:49 - INFO  --> ROW: s0301 - sub_sec_head 
+2014-11-25 2:08:49 - INFO  --> s0301 ->  
+2014-11-25 2:08:49 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:49 - INFO  --> ROW: s0302 - sub_sec_head 
+2014-11-25 2:08:49 - INFO  --> s0302 ->  
+2014-11-25 2:08:49 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:49 - INFO  --> ROW: s0303 - sub_sec_head 
+2014-11-25 2:08:49 - INFO  --> s0303 ->  
+2014-11-25 2:08:49 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:49 - INFO  --> ROW: s0304 - sub_sec_head 
+2014-11-25 2:08:49 - INFO  --> s0304 ->  
+2014-11-25 2:08:49 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:49 - INFO  --> ROW: s0305 - sub_sec_head_ro 
+2014-11-25 2:08:49 - INFO  --> MSCORE: 3 
+2014-11-25 2:08:49 - INFO  --> ROW:  - sec_element_info 
+2014-11-25 2:08:49 - INFO  --> ROW: s030501 - sec_element_yna 
+2014-11-25 2:08:49 - INFO  --> ROW: s030502 - sec_element_yna 
+2014-11-25 2:08:49 - INFO  --> ROW: s030503 - sec_element_yna 
+2014-11-25 2:08:49 - INFO  --> ROW: s030504 - sec_element_yna 
+2014-11-25 2:08:49 - INFO  --> ROW: s030505 - sec_element_yna 
+2014-11-25 2:08:49 - INFO  --> ROW: s030506 - sec_element_yna 
+2014-11-25 2:08:49 - INFO  --> ROW: s030507 - sec_element_yna 
+2014-11-25 2:08:49 - INFO  --> ROW: s030508 - sec_element_yna 
+2014-11-25 2:08:49 - INFO  --> ROW: s030509 - sec_element_yna 
+2014-11-25 2:08:49 - INFO  --> ROW: s030510 - sec_element_yna 
+2014-11-25 2:08:49 - INFO  --> ROW: s030511 - sec_element_yna 
+2014-11-25 2:08:49 - INFO  --> ROW: s030512 - sec_element_yna 
+2014-11-25 2:08:49 - INFO  --> ROW: s030513 - sec_element_yna 
+2014-11-25 2:08:49 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:49 - INFO  --> ROW: s0306 - sub_sec_head 
+2014-11-25 2:08:49 - INFO  --> s0306 ->  
+2014-11-25 2:08:49 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:49 - INFO  --> ROW: s0307 - sub_sec_head 
+2014-11-25 2:08:49 - INFO  --> s0307 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0308 - sub_sec_head_ro 
+2014-11-25 2:08:50 - INFO  --> MSCORE: 3 
+2014-11-25 2:08:50 - INFO  --> ROW:  - sec_element_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s030801 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s030802 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s030803 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s030804 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s030805 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s030806 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s030807 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s030808 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s030809 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s030810 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s030811 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s03_total - sec_total 
+2014-11-25 2:08:50 - INFO  --> ROW:  - sec_elem_info_normal 
+2014-11-25 2:08:50 - INFO  --> ROW: s04 - sec_head 
+2014-11-25 2:08:50 - INFO  --> SECHEAD: 4 CLIENT MANAGEMENT & CUSTOMER SERVICE 
+2014-11-25 2:08:50 - INFO  --> ROW: s0401 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0401 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0402 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0402 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0403 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0403 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0404 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0404 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s04_total - sec_total 
+2014-11-25 2:08:50 - INFO  --> ROW:  - sec_elem_info_normal 
+2014-11-25 2:08:50 - INFO  --> ROW: s05 - sec_head 
+2014-11-25 2:08:50 - INFO  --> SECHEAD: 5 EQUIPMENT 
+2014-11-25 2:08:50 - INFO  --> ROW: s0501 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0501 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0502 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0502 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0503 - sub_sec_head_ro 
+2014-11-25 2:08:50 - INFO  --> MSCORE: 2 
+2014-11-25 2:08:50 - INFO  --> ROW:  - sec_element_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s050301 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s050302 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s050303 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s050304 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s050305 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s050306 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s050307 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0504 - sub_sec_head_ro 
+2014-11-25 2:08:50 - INFO  --> MSCORE: 2 
+2014-11-25 2:08:50 - INFO  --> ROW:  - sec_element_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s050401 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s050402 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s050403 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s050404 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s050405 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s050406 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s050407 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0505 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0505 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0506 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0506 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0507 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0507 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0508 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0508 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0509 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0509 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0510 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0510 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0511 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0511 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0512 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0512 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0513 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0513 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0514 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0514 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0515 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0515 ->  
+2014-11-25 2:08:50 - INFO  --> ROW: s05_total - sec_total 
+2014-11-25 2:08:50 - INFO  --> ROW:  - sec_elem_info_normal 
+2014-11-25 2:08:50 - INFO  --> ROW: s06 - sec_head 
+2014-11-25 2:08:50 - INFO  --> SECHEAD: 6 INTERNAL AUDIT 
+2014-11-25 2:08:50 - INFO  --> ROW: s0601 - sub_sec_head_ro 
+2014-11-25 2:08:50 - INFO  --> MSCORE: 5 
+2014-11-25 2:08:50 - INFO  --> ROW: s060101 - sec_element 
+2014-11-25 2:08:50 - INFO  --> ROW: s060102 - sec_element 
+2014-11-25 2:08:50 - INFO  --> ROW: s060103 - sec_element 
+2014-11-25 2:08:50 - INFO  --> ROW: s060104 - sec_element 
+2014-11-25 2:08:50 - INFO  --> ROW: s0602 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0602 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s06_total - sec_total 
+2014-11-25 2:08:50 - INFO  --> ROW:  - sec_elem_info_normal 
+2014-11-25 2:08:50 - INFO  --> ROW: s07 - sec_head 
+2014-11-25 2:08:50 - INFO  --> SECHEAD: 7 PURCHASING & INVENTORY 
+2014-11-25 2:08:50 - INFO  --> ROW: s0701 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0701 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0702 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0702 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0703 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0703 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0704 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0704 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0705 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0705 ->  
+2014-11-25 2:08:50 - INFO  --> ROW: s0706 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0706 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0707 - sub_sec_head_ro 
+2014-11-25 2:08:50 - INFO  --> MSCORE: 2 
+2014-11-25 2:08:50 - INFO  --> ROW:  - sec_element_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s070701 - sec_element 
+2014-11-25 2:08:50 - INFO  --> ROW: s070702 - sec_element 
+2014-11-25 2:08:50 - INFO  --> ROW: s070703 - sec_element 
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0708 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0708 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0709 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0709 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0710 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0710 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0711 - sub_sec_head_ro 
+2014-11-25 2:08:50 - INFO  --> MSCORE: 2 
+2014-11-25 2:08:50 - INFO  --> ROW:  - sec_element_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s071101 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s071102 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s071103 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s071104 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s071105 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s071106 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s071107 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s071108 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s071109 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s071110 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0712 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0712 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0713 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0713 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0714 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0714 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0715 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0715 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s07_total - sec_total 
+2014-11-25 2:08:50 - INFO  --> ROW:  - sec_elem_info_normal 
+2014-11-25 2:08:50 - INFO  --> ROW: s08 - sec_head 
+2014-11-25 2:08:50 - INFO  --> SECHEAD: 8 PROCESS CONTROL and INTERNAL & EXTERNAL QUALITY AUDIT 
+2014-11-25 2:08:50 - INFO  --> ROW: s0801 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0801 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0802 - sub_sec_head_ro 
+2014-11-25 2:08:50 - INFO  --> MSCORE: 3 
+2014-11-25 2:08:50 - INFO  --> ROW:  - sec_element_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s080201 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s080202 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s080203 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s080204 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s080205 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s080206 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s080207 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s080208 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s080209 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s080210 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0803 - sub_sec_head_ro 
+2014-11-25 2:08:50 - INFO  --> MSCORE: 2 
+2014-11-25 2:08:50 - INFO  --> ROW: s080301 - sec_element 
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0804 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0804 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0805 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0805 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0806 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0806 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0807 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0807 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0808 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0808 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0809 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0809 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0810 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0810 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0811 - sub_sec_head_ro 
+2014-11-25 2:08:50 - INFO  --> MSCORE: 2 
+2014-11-25 2:08:50 - INFO  --> ROW:  - sec_element_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s081101 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s081102 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s081103 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s081104 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s081105 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0812 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0812 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0813 - sub_sec_head_ro 
+2014-11-25 2:08:50 - INFO  --> MSCORE: 3 
+2014-11-25 2:08:50 - INFO  --> ROW:  - sec_element_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s081301 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s081302 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s081303 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s081304 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW: s081305 - sec_element_yna 
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0814 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0814 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s08_total - sec_total 
+2014-11-25 2:08:50 - INFO  --> ROW:  - sec_elem_info_normal 
+2014-11-25 2:08:50 - INFO  --> ROW: s09 - sec_head 
+2014-11-25 2:08:50 - INFO  --> SECHEAD: 9 INFORMATION MANAGEMENT 
+2014-11-25 2:08:50 - INFO  --> ROW: s0901 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0901 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0902 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0902 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0903 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0903 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0904 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0904 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0905 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0905 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0906 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0906 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0907 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0907 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s0908 - sub_sec_head_ro 
+2014-11-25 2:08:50 - INFO  --> MSCORE: 2 
+2014-11-25 2:08:50 - INFO  --> ROW:  - sec_element_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s090801 - sec_element 
+2014-11-25 2:08:50 - INFO  --> ROW: s090802 - sec_element 
+2014-11-25 2:08:50 - INFO  --> ROW: s090803 - sec_element 
+2014-11-25 2:08:50 - INFO  --> ROW: s090804 - sec_element 
+2014-11-25 2:08:50 - INFO  --> ROW: s090805 - sec_element 
+2014-11-25 2:08:50 - INFO  --> ROW: s090806 - sec_element 
+2014-11-25 2:08:50 - INFO  --> ROW: s090807 - sec_element 
+2014-11-25 2:08:50 - INFO  --> ROW: s090808 - sec_element 
+2014-11-25 2:08:50 - INFO  --> ROW: s0909 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s0909 ->  
+2014-11-25 2:08:50 - INFO  --> ROW: s090809 - sec_element 
+2014-11-25 2:08:50 - INFO  --> ROW: s09_total - sec_total 
+2014-11-25 2:08:50 - INFO  --> ROW:  - sec_elem_info_normal 
+2014-11-25 2:08:50 - INFO  --> ROW: s10 - sec_head 
+2014-11-25 2:08:50 - INFO  --> SECHEAD: 10 CORRECTIVE ACTION 
+2014-11-25 2:08:50 - INFO  --> ROW: s1001 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s1001 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s1002 - sub_sec_head 
+2014-11-25 2:08:50 - INFO  --> s1002 ->  
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s1003 - sub_sec_head_ro 
+2014-11-25 2:08:50 - INFO  --> MSCORE: 3 
+2014-11-25 2:08:50 - INFO  --> ROW:  - sec_element_info 
+2014-11-25 2:08:50 - INFO  --> ROW: s100301 - sec_element 
+2014-11-25 2:08:50 - INFO  --> ROW: s100302 - sec_element 
+2014-11-25 2:08:50 - INFO  --> ROW: s100303 - sec_element 
+2014-11-25 2:08:50 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:51 - INFO  --> ROW: s1004 - sub_sec_head 
+2014-11-25 2:08:51 - INFO  --> s1004 ->  
+2014-11-25 2:08:51 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:51 - INFO  --> ROW: s10_total - sec_total 
+2014-11-25 2:08:51 - INFO  --> ROW:  - sec_elem_info_normal 
+2014-11-25 2:08:51 - INFO  --> ROW: s11 - sec_head 
+2014-11-25 2:08:51 - INFO  --> SECHEAD: 11 OCCURRENCE / INCIDENT MANAGEMENT & PROCESS IMPROVEMENT 
+2014-11-25 2:08:51 - INFO  --> ROW: s1101 - sub_sec_head 
+2014-11-25 2:08:51 - INFO  --> s1101 ->  
+2014-11-25 2:08:51 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:51 - INFO  --> ROW: s1102 - sub_sec_head 
+2014-11-25 2:08:51 - INFO  --> s1102 ->  
+2014-11-25 2:08:51 - INFO  --> ROW: s1103 - sub_sec_head 
+2014-11-25 2:08:51 - INFO  --> s1103 ->  
+2014-11-25 2:08:51 - INFO  --> ROW: s1104 - sub_sec_head 
+2014-11-25 2:08:51 - INFO  --> s1104 ->  
+2014-11-25 2:08:51 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:51 - INFO  --> ROW: s11_total - sec_total 
+2014-11-25 2:08:51 - INFO  --> ROW:  - sec_elem_info_normal 
+2014-11-25 2:08:51 - INFO  --> ROW: s12 - sec_head 
+2014-11-25 2:08:51 - INFO  --> SECHEAD: 12 FACILITIES & SAFETY   
+2014-11-25 2:08:51 - INFO  --> ROW: s1201 - sub_sec_head 
+2014-11-25 2:08:51 - INFO  --> s1201 ->  
+2014-11-25 2:08:51 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:51 - INFO  --> ROW: s1202 - sub_sec_head 
+2014-11-25 2:08:51 - INFO  --> s1202 ->  
+2014-11-25 2:08:51 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:51 - INFO  --> ROW: s1203 - sub_sec_head_ro 
+2014-11-25 2:08:51 - INFO  --> MSCORE: 2 
+2014-11-25 2:08:51 - INFO  --> ROW:  - sec_element_info 
+2014-11-25 2:08:51 - INFO  --> ROW: s120301 - sec_element_yna 
+2014-11-25 2:08:51 - INFO  --> ROW: s120302 - sec_element_yna 
+2014-11-25 2:08:51 - INFO  --> ROW: s120303 - sec_element_yna 
+2014-11-25 2:08:51 - INFO  --> ROW: s120304 - sec_element_yna 
+2014-11-25 2:08:51 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:51 - INFO  --> ROW: s1204 - sub_sec_head_ro 
+2014-11-25 2:08:51 - INFO  --> MSCORE: 2 
+2014-11-25 2:08:51 - INFO  --> ROW:  - sec_element_info 
+2014-11-25 2:08:51 - INFO  --> ROW: s120401 - sec_element_yna 
+2014-11-25 2:08:51 - INFO  --> ROW: s120402 - sec_element_yna 
+2014-11-25 2:08:51 - INFO  --> ROW: s120403 - sec_element_yna 
+2014-11-25 2:08:51 - INFO  --> ROW: s120404 - sec_element_yna 
+2014-11-25 2:08:51 - INFO  --> ROW: s120405 - sec_element_yna 
+2014-11-25 2:08:51 - INFO  --> ROW: s120406 - sec_element_yna 
+2014-11-25 2:08:51 - INFO  --> ROW: s120407 - sec_element_yna 
+2014-11-25 2:08:51 - INFO  --> ROW: s120408 - sec_element_yna 
+2014-11-25 2:08:51 - INFO  --> ROW: s120409 - sec_element_yna 
+2014-11-25 2:08:51 - INFO  --> ROW: s120410 - sec_element_yna 
+2014-11-25 2:08:51 - INFO  --> ROW: s120411 - sec_element_yna 
+2014-11-25 2:08:51 - INFO  --> ROW: s120412 - sec_element_yna 
+2014-11-25 2:08:51 - INFO  --> ROW: s120413 - sec_element_yna 
+2014-11-25 2:08:51 - INFO  --> ROW: s120414 - sec_element_yna 
+2014-11-25 2:08:51 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:51 - INFO  --> ROW: s1205 - sub_sec_head 
+2014-11-25 2:08:51 - INFO  --> s1205 ->  
+2014-11-25 2:08:51 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:51 - INFO  --> ROW: s1206 - sub_sec_head 
+2014-11-25 2:08:51 - INFO  --> s1206 ->  
+2014-11-25 2:08:51 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:51 - INFO  --> ROW: s1207 - sub_sec_head 
+2014-11-25 2:08:51 - INFO  --> s1207 ->  
+2014-11-25 2:08:51 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:51 - INFO  --> ROW: s1208 - sub_sec_head 
+2014-11-25 2:08:51 - INFO  --> s1208 ->  
+2014-11-25 2:08:51 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:51 - INFO  --> ROW: s1209 - sub_sec_head_ro 
+2014-11-25 2:08:51 - INFO  --> MSCORE: 3 
+2014-11-25 2:08:51 - INFO  --> ROW:  - sec_element_info 
+2014-11-25 2:08:51 - INFO  --> ROW: s120901 - sec_element_yna 
+2014-11-25 2:08:51 - INFO  --> ROW: s120902 - sec_element_yna 
+2014-11-25 2:08:51 - INFO  --> ROW: s120903 - sec_element_yna 
+2014-11-25 2:08:51 - INFO  --> ROW: s120904 - sec_element_yna 
+2014-11-25 2:08:51 - INFO  --> ROW: s120905 - sec_element_yna 
+2014-11-25 2:08:51 - INFO  --> ROW: s120906 - sec_element_yna 
+2014-11-25 2:08:51 - INFO  --> ROW: s120907 - sec_element_yna 
+2014-11-25 2:08:51 - INFO  --> ROW: s120908 - sec_element_yna 
+2014-11-25 2:08:51 - INFO  --> ROW: s120909 - sec_element_yna 
+2014-11-25 2:08:51 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:51 - INFO  --> ROW: s1210 - sub_sec_head 
+2014-11-25 2:08:51 - INFO  --> s1210 ->  
+2014-11-25 2:08:51 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:51 - INFO  --> ROW: s1211 - sub_sec_head_ro 
+2014-11-25 2:08:51 - INFO  --> MSCORE: 2 
+2014-11-25 2:08:51 - INFO  --> ROW:  - sec_element_info 
+2014-11-25 2:08:51 - INFO  --> ROW: s121101 - sec_element_yna 
+2014-11-25 2:08:51 - INFO  --> ROW: s121102 - sec_element_yna 
+2014-11-25 2:08:51 - INFO  --> ROW: s121103 - sec_element_yna 
+2014-11-25 2:08:51 - INFO  --> ROW: s121104 - sec_element_yna 
+2014-11-25 2:08:51 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:51 - INFO  --> ROW: s1212 - sub_sec_head 
+2014-11-25 2:08:51 - INFO  --> s1212 ->  
+2014-11-25 2:08:51 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:51 - INFO  --> ROW: s1213 - sub_sec_head_ro 
+2014-11-25 2:08:51 - INFO  --> MSCORE: 2 
+2014-11-25 2:08:51 - INFO  --> ROW:  - sec_element_info 
+2014-11-25 2:08:51 - INFO  --> ROW: s121301 - sec_element_yna 
+2014-11-25 2:08:51 - INFO  --> ROW: s121302 - sec_element_yna 
+2014-11-25 2:08:51 - INFO  --> ROW: s121303 - sec_element_yna 
+2014-11-25 2:08:51 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:51 - INFO  --> ROW: s1214 - sub_sec_head 
+2014-11-25 2:08:51 - INFO  --> s1214 ->  
+2014-11-25 2:08:51 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:51 - INFO  --> ROW: s1215 - sub_sec_head_ro 
+2014-11-25 2:08:51 - INFO  --> MSCORE: 2 
+2014-11-25 2:08:51 - INFO  --> ROW:  - sec_element_info 
+2014-11-25 2:08:51 - INFO  --> ROW: s121501 - sec_element_yna 
+2014-11-25 2:08:51 - INFO  --> ROW: s121502 - sec_element_yna 
+2014-11-25 2:08:51 - INFO  --> ROW: s121503 - sec_element_yna 
+2014-11-25 2:08:51 - INFO  --> ROW: s121504 - sec_element_yna 
+2014-11-25 2:08:51 - INFO  --> ROW: s121505 - sec_element_yna 
+2014-11-25 2:08:51 - INFO  --> ROW: s121506 - sec_element_yna 
+2014-11-25 2:08:51 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:51 - INFO  --> ROW: s1216 - sub_sec_head 
+2014-11-25 2:08:51 - INFO  --> s1216 ->  
+2014-11-25 2:08:51 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:51 - INFO  --> ROW: s1217 - sub_sec_head 
+2014-11-25 2:08:51 - INFO  --> s1217 ->  
+2014-11-25 2:08:51 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:51 - INFO  --> ROW: s1218 - sub_sec_head 
+2014-11-25 2:08:51 - INFO  --> s1218 ->  
+2014-11-25 2:08:51 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:51 - INFO  --> ROW: s1219 - sub_sec_head 
+2014-11-25 2:08:51 - INFO  --> s1219 ->  
+2014-11-25 2:08:51 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:51 - INFO  --> ROW: s1220 - sub_sec_head 
+2014-11-25 2:08:51 - INFO  --> s1220 ->  
+2014-11-25 2:08:51 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:51 - INFO  --> ROW: s1221 - sub_sec_head 
+2014-11-25 2:08:51 - INFO  --> s1221 ->  
+2014-11-25 2:08:51 - INFO  --> ROW:  - sub_sec_info 
+2014-11-25 2:08:51 - INFO  --> ROW: s12_total - sec_total 
+2014-11-25 2:08:51 - INFO  --> ROW:  - sec_head_top 
+2014-11-25 2:08:51 - INFO  --> ROW:  - criteria_1_heading 
+2014-11-25 2:08:51 - INFO  --> ROW: monconval - criteria_1_values 
+2014-11-25 2:08:51 - INFO  --> ROW: monintstd - criteria_1_values 
+2014-11-25 2:08:51 - INFO  --> ROW: monqualkit - criteria_1_values 
+2014-11-25 2:08:51 - INFO  --> ROW: docconkit - criteria_1_values 
+2014-11-25 2:08:51 - INFO  --> ROW: criteria1_com - com_and_rec 
+2014-11-25 2:08:51 - INFO  --> ROW:  - criteria_2_heading 
+2014-11-25 2:08:51 - INFO  --> ROW:  - panel_heading 
+2014-11-25 2:08:51 - INFO  --> ROW: hivser_mr - panel_result 
+2014-11-25 2:08:51 - INFO  --> ROW: hivser_smr - panel_result 
+2014-11-25 2:08:51 - INFO  --> ROW:  - panel_heading 
+2014-11-25 2:08:51 - INFO  --> ROW: hivpcr_mr - panel_result 
+2014-11-25 2:08:51 - INFO  --> ROW: hivpcr_smr - panel_result 
+2014-11-25 2:08:51 - INFO  --> ROW:  - panel_heading 
+2014-11-25 2:08:51 - INFO  --> ROW: hivload_mr - panel_result 
+2014-11-25 2:08:51 - INFO  --> ROW: hivload_smr - panel_result 
+2014-11-25 2:08:51 - INFO  --> ROW:  - panel_heading 
+2014-11-25 2:08:51 - INFO  --> ROW: cd4ct_mr - panel_result 
+2014-11-25 2:08:51 - INFO  --> ROW: cd4ct_smr - panel_result 
+2014-11-25 2:08:51 - INFO  --> ROW:  - panel_heading 
+2014-11-25 2:08:51 - INFO  --> ROW: chem_mr - panel_result 
+2014-11-25 2:08:51 - INFO  --> ROW: chem_smr - panel_result 
+2014-11-25 2:08:51 - INFO  --> ROW:  - panel_heading 
+2014-11-25 2:08:51 - INFO  --> ROW: hema_mr - panel_result 
+2014-11-25 2:08:51 - INFO  --> ROW: hema_smr - panel_result 
+2014-11-25 2:08:51 - INFO  --> ROW:  - panel_heading 
+2014-11-25 2:08:51 - INFO  --> ROW: mala_mr - panel_result 
+2014-11-25 2:08:51 - INFO  --> ROW: mala_smr - panel_result 
+2014-11-25 2:08:51 - INFO  --> ROW:  - panel_heading 
+2014-11-25 2:08:51 - INFO  --> ROW: tbsmear_mr - panel_result 
+2014-11-25 2:08:51 - INFO  --> ROW: tbsmear_smr - panel_result 
+2014-11-25 2:08:51 - INFO  --> ROW: tbcult_mr - panel_result 
+2014-11-25 2:08:51 - INFO  --> ROW: tbcult_smr - panel_result 
+2014-11-25 2:08:51 - INFO  --> ROW: tbdrugs_mr - panel_result 
+2014-11-25 2:08:51 - INFO  --> ROW: tndrugs_smr - panel_result 
+2014-11-25 2:08:51 - INFO  --> ROW: othdis1 - panel_heading2 
+2014-11-25 2:08:51 - INFO  --> ROW: othdis1_mr - panel_result 
+2014-11-25 2:08:51 - INFO  --> ROW: othdis1_smr - panel_result 
+2014-11-25 2:08:51 - INFO  --> ROW: othdis2 - panel_heading2 
+2014-11-25 2:08:51 - INFO  --> ROW: othdis2_mr - panel_result 
+2014-11-25 2:08:51 - INFO  --> ROW: othdis2_smr - panel_result 
+2014-11-25 2:08:51 - INFO  --> ROW:  - banner_rev 
+2014-11-25 2:08:51 - INFO  --> ROW:  - sec_head 
+2014-11-25 2:08:51 - INFO  --> SECHEAD:  SUMMARY 
+2014-11-25 2:08:51 - INFO  --> ROW:  - sec_head_small 
+2014-11-25 2:08:51 - INFO  --> ROW: commendations - info 
+2014-11-25 2:08:51 - INFO  --> ROW:  - sec_head_small 
+2014-11-25 2:08:51 - INFO  --> ROW: challenges - info 
+2014-11-25 2:08:51 - INFO  --> ROW:  - sec_head 
+2014-11-25 2:08:51 - INFO  --> SECHEAD:  RECOMMENDATIONS 
+2014-11-25 2:08:51 - INFO  --> ROW: recommendations - info 
+2014-11-25 2:08:51 - INFO  --> ROW:  - sec_head 
+2014-11-25 2:08:51 - INFO  --> SECHEAD:  ACTION PLAN (if applicable) 
+2014-11-25 2:08:51 - INFO  --> ROW:  - action_plan_heading 
+2014-11-25 2:08:51 - INFO  --> ROW: action01 - action_plan_data 
+2014-11-25 2:08:51 - INFO  --> ROW: action02 - action_plan_data 
+2014-11-25 2:08:51 - INFO  --> ROW: action03 - action_plan_data 
+2014-11-25 2:08:51 - INFO  --> ROW: action04 - action_plan_data 
+2014-11-25 2:08:51 - INFO  --> ROW: action05 - action_plan_data 
+2014-11-25 2:08:51 - INFO  --> ROW: action06 - action_plan_data 
+2014-11-25 2:08:51 - INFO  --> ROW: action07 - action_plan_data 
+2014-11-25 2:08:51 - INFO  --> ROW: action08 - action_plan_data 
+2014-11-25 2:08:51 - INFO  --> ROW: action09 - action_plan_data 
+2014-11-25 2:08:51 - INFO  --> ROW: action10 - action_plan_data 
+2014-11-25 2:08:51 - INFO  --> ROW: action10 - action_plan_data 
+2014-11-25 2:08:51 - INFO  --> ROW: action10 - action_plan_data 
+2014-11-25 2:08:51 - INFO  --> ROW: action10 - action_plan_data 
+2014-11-25 2:08:51 - INFO  --> ROW: action10 - action_plan_data 
+2014-11-25 2:08:51 - INFO  --> ROW: action10 - action_plan_data 
+2014-11-25 2:08:51 - INFO  --> ROW:  - pagebreak 
+2014-11-25 2:08:51 - INFO  --> ROW:  - banner_rev 
+2014-11-25 2:08:51 - INFO  --> ROW:  - full 
+2014-11-25 2:08:51 - INFO  --> ROW:  - pagebreak 
+2014-11-25 2:08:51 - INFO  --> ROW:  - banner_rev_border 
+2014-11-25 2:20:06 - INFO  --> in fillout init 
+2014-11-25 2:20:06 - INFO  --> SQL:  select a.id audit_id, a.end_date, a.cohort_id, a.status,
+        a.slmta_type, l.id lab_id, a.audit_type tag,
+        l.labname, l.labnum, l.country, l.lablevel, l.labaffil,
+        ao.owner
+   from lab l, audit a left join audit_owner ao on
+        (ao.audit_id = a.id and ao.owner = 21)
+  where a.id = 46 and l.id = a.lab_id 
+2014-11-25 2:20:06 - INFO  --> SQL:  select a.id audit_id, a.end_date, a.cohort_id, a.status,
+        a.slmta_type, l.id lab_id, a.audit_type tag,
+        l.labname, l.labnum, l.country, l.lablevel, l.labaffil,
+        ao.owner
+   from lab l, audit a left join audit_owner ao on
+        (ao.audit_id = a.id and ao.owner = 21)
+  where a.id = 46 and l.id = a.lab_id 
+2014-11-25 2:20:06 - INFO  --> audit: Array
+(
+    [audit_id] => 46
+    [end_date] => 0000-00-00
+    [cohort_id] => 12
+    [status] => INCOMPLETE
+    [slmta_type] => SURV
+    [lab_id] => 10
+    [tag] => SLIPTA
+    [labname] => Test lab
+    [labnum] => tl56
+    [country] => USA
+    [lablevel] => DISTRICT
+    [labaffil] => OTHER
+    [owner] => 21
+)
+ 
+2014-11-25 2:20:06 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:20:06 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:20:06 - INFO  --> MT aud init: 1416900006.9972 
+2014-11-25 2:20:07 - INFO  --> SQL: select a.id audit_id, a.end_date, a.cohort_id, a.status, a.audit_type,
+       a.slipta_official, a.slmta_type, l.id lab_id,
+       l.labname, l.labnum, l.country, l.lablevel, l.labaffil, ao.owner
+  from lab l, audit a, audit_owner ao
+ where a.id = ao.audit_id and ao.owner = 21
+   and l.id = a.lab_id and a.status = 'INCOMPLETE' 
+2014-11-25 2:20:07 - INFO  --> SQL: select dialog_id from dialog where field_name='audit/main' 
+2014-11-25 2:20:07 - INFO  --> SQL: select * from dialog where dialog_id = 7 order by position 
+2014-11-25 2:20:07 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:20:07 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:20:07 - INFO  --> in fillout init 
+2014-11-25 2:20:11 - INFO  --> in fillout init 
+2014-11-25 2:20:11 - INFO  --> SQL:  select a.id audit_id, a.end_date, a.cohort_id, a.status,
+        a.slmta_type, l.id lab_id, a.audit_type tag,
+        l.labname, l.labnum, l.country, l.lablevel, l.labaffil,
+        ao.owner
+   from lab l, audit a left join audit_owner ao on
+        (ao.audit_id = a.id and ao.owner = 21)
+  where a.id = 46 and l.id = a.lab_id 
+2014-11-25 2:20:11 - INFO  --> SQL:  select a.id audit_id, a.end_date, a.cohort_id, a.status,
+        a.slmta_type, l.id lab_id, a.audit_type tag,
+        l.labname, l.labnum, l.country, l.lablevel, l.labaffil,
+        ao.owner
+   from lab l, audit a left join audit_owner ao on
+        (ao.audit_id = a.id and ao.owner = 21)
+  where a.id = 46 and l.id = a.lab_id 
+2014-11-25 2:20:12 - INFO  --> audit: Array
+(
+    [audit_id] => 46
+    [end_date] => 0000-00-00
+    [cohort_id] => 12
+    [status] => INCOMPLETE
+    [slmta_type] => SURV
+    [lab_id] => 10
+    [tag] => SLIPTA
+    [labname] => Test lab
+    [labnum] => tl56
+    [country] => USA
+    [lablevel] => DISTRICT
+    [labaffil] => OTHER
+    [owner] => 21
+)
+ 
+2014-11-25 2:20:12 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:20:12 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:20:12 - INFO  --> lab/create 
+2014-11-25 2:20:12 - INFO  --> SQL: select dialog_id from dialog where field_name='lab/create' 
+2014-11-25 2:20:12 - INFO  --> SQL: select * from dialog where dialog_id = 2 order by position 
+2014-11-25 2:20:12 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:20:12 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:20:12 - INFO  --> in fillout init 
+2014-11-25 2:20:12 - INFO  --> in fillout init 
+2014-11-25 2:20:12 - INFO  --> in fillout init 
+2014-11-25 2:20:12 - INFO  --> in fillout init 
+2014-11-25 2:20:12 - INFO  --> in fillout init 
+2014-11-25 2:20:12 - INFO  --> in fillout init 
+2014-11-25 2:20:12 - INFO  --> in fillout init 
+2014-11-25 2:20:12 - INFO  --> in fillout init 
+2014-11-25 2:20:12 - INFO  --> in fillout init 
+2014-11-25 2:20:12 - INFO  --> in fillout init 
+2014-11-25 2:20:12 - INFO  --> in fillout init 
+2014-11-25 2:20:12 - INFO  --> in fillout init 
+2014-11-25 2:20:12 - INFO  --> in fillout init 
+2014-11-25 2:20:12 - INFO  --> in fillout init 
+2014-11-25 2:20:12 - INFO  --> SELECT: lablevel -   
+2014-11-25 2:20:12 - INFO  --> in fillout init 
+2014-11-25 2:20:12 - INFO  --> SELECT: labaffil -   
+2014-11-25 2:20:12 - INFO  --> in fillout init 
+2014-11-25 2:20:12 - INFO  --> in fillout init 
+2014-11-25 2:20:12 - INFO  --> SELECT: slmta_labtype -   
+2014-11-25 2:20:12 - INFO  --> in fillout init 
+2014-11-25 2:35:35 - INFO  --> in fillout init 
+2014-11-25 2:35:35 - INFO  --> SQL:  select a.id audit_id, a.end_date, a.cohort_id, a.status,
+        a.slmta_type, l.id lab_id, a.audit_type tag,
+        l.labname, l.labnum, l.country, l.lablevel, l.labaffil,
+        ao.owner
+   from lab l, audit a left join audit_owner ao on
+        (ao.audit_id = a.id and ao.owner = 21)
+  where a.id = 46 and l.id = a.lab_id 
+2014-11-25 2:35:49 - INFO  --> in fillout init 
+2014-11-25 2:35:49 - INFO  --> SQL:  select a.id audit_id, a.end_date, a.cohort_id, a.status,
+        a.slmta_type, l.id lab_id, a.audit_type tag,
+        l.labname, l.labnum, l.country, l.lablevel, l.labaffil,
+        ao.owner
+   from lab l, audit a left join audit_owner ao on
+        (ao.audit_id = a.id and ao.owner = 21)
+  where a.id = 46 and l.id = a.lab_id 
+2014-11-25 2:35:49 - INFO  --> SQL:  select a.id audit_id, a.end_date, a.cohort_id, a.status,
+        a.slmta_type, l.id lab_id, a.audit_type tag,
+        l.labname, l.labnum, l.country, l.lablevel, l.labaffil,
+        ao.owner
+   from lab l, audit a left join audit_owner ao on
+        (ao.audit_id = a.id and ao.owner = 21)
+  where a.id = 46 and l.id = a.lab_id 
+2014-11-25 2:35:49 - INFO  --> audit: Array
+(
+    [audit_id] => 46
+    [end_date] => 0000-00-00
+    [cohort_id] => 12
+    [status] => INCOMPLETE
+    [slmta_type] => SURV
+    [lab_id] => 10
+    [tag] => SLIPTA
+    [labname] => Test lab
+    [labnum] => tl56
+    [country] => USA
+    [lablevel] => DISTRICT
+    [labaffil] => OTHER
+    [owner] => 21
+)
+ 
+2014-11-25 2:35:49 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:35:49 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:35:49 - INFO  --> lab/create 
+2014-11-25 2:35:49 - INFO  --> SQL: select dialog_id from dialog where field_name='lab/create' 
+2014-11-25 2:35:49 - INFO  --> SQL: select * from dialog where dialog_id = 2 order by position 
+2014-11-25 2:35:49 - INFO  --> VAL: str_min_6 
+2014-11-25 2:35:49 - INFO  --> VAL: labname str_min_6 qwertrf --  
+2014-11-25 2:35:49 - INFO  --> VAL: str_nempty 
+2014-11-25 2:35:49 - INFO  --> VAL: labnum str_nempty lab-007 --  
+2014-11-25 2:35:49 - INFO  --> VAL:  
+2014-11-25 2:35:49 - INFO  --> VAL:  
+2014-11-25 2:35:49 - INFO  --> VAL:  
+2014-11-25 2:35:49 - INFO  --> VAL:  
+2014-11-25 2:35:49 - INFO  --> VAL:  
+2014-11-25 2:35:49 - INFO  --> VAL: str_nempty 
+2014-11-25 2:35:49 - INFO  --> VAL: country str_nempty qwert --  
+2014-11-25 2:35:49 - INFO  --> VAL:  
+2014-11-25 2:35:49 - INFO  --> VAL:  
+2014-11-25 2:35:49 - INFO  --> VAL:  
+2014-11-25 2:35:49 - INFO  --> VAL:  
+2014-11-25 2:35:49 - INFO  --> VAL: str_not_default 
+2014-11-25 2:35:49 - INFO  --> VAL: lablevel str_not_default NATIONAL --  
+2014-11-25 2:35:49 - INFO  --> VAL: str_not_default 
+2014-11-25 2:35:49 - INFO  --> VAL: labaffil str_not_default PUBLIC --  
+2014-11-25 2:35:49 - INFO  --> VAL:  
+2014-11-25 2:35:49 - INFO  --> VAL: str_nempty 
+2014-11-25 2:35:49 - INFO  --> VAL: slmta_labtype str_nempty 1 --  
+2014-11-25 2:35:49 - INFO  --> VAL:  
+2014-11-25 2:35:49 - INFO  --> COLL: Array
+(
+    [labname] => qwertrf
+    [labnum] => lab-007
+    [street] => qewrtr
+    [street2] => qewr
+    [street3] => qwer
+    [city] => qwert
+    [state] => qwer
+    [country] => qwert
+    [postcode] => qwer
+    [labtel] => qwre
+    [labfax] => qwert
+    [labemail] => qwer
+    [lablevel] => NATIONAL
+    [labaffil] => PUBLIC
+    [labaffil_other] => wer
+    [slmta_labtype] => 1
+    [submit_button] => Create
+)
+ 
+2014-11-25 2:35:49 - INFO  --> HC: Array
+(
+    [labname] => qwertrf
+    [labnum] => lab-007
+    [street] => qewrtr
+    [street2] => qewr
+    [street3] => qwer
+    [city] => qwert
+    [state] => qwer
+    [country] => qwert
+    [postcode] => qwer
+    [labtel] => qwre
+    [labfax] => qwert
+    [labemail] => qwer
+    [lablevel] => NATIONAL
+    [labaffil] => PUBLIC
+    [labaffil_other] => wer
+    [slmta_labtype] => 1
+    [submit_button] => Create
+)
+ 
+2014-11-25 2:35:49 - INFO  --> ECT: 0 
+2014-11-25 2:35:49 - INFO  --> Data: Array
+(
+    [labname] => qwertrf
+    [labnum] => lab-007
+    [street] => qewrtr
+    [street2] => qewr
+    [street3] => qwer
+    [city] => qwert
+    [state] => qwer
+    [country] => qwert
+    [postcode] => qwer
+    [labtel] => qwre
+    [labfax] => qwert
+    [labemail] => qwer
+    [lablevel] => NATIONAL
+    [labaffil] => PUBLIC
+    [labaffil_other] => wer
+    [slmta_labtype] => 1
+    [submit_button] => Create
+)
+ 
+2014-11-25 2:35:50 - INFO  --> LD: Array
+(
+    [labname] => qwertrf
+    [labnum] => lab-007
+    [street] => qewrtr
+    [street2] => qewr
+    [street3] => qwer
+    [city] => qwert
+    [state] => qwer
+    [country] => qwert
+    [postcode] => qwer
+    [labtel] => qwre
+    [labfax] => qwert
+    [labemail] => qwer
+    [lablevel] => NATIONAL
+    [labaffil] => PUBLIC
+    [labaffil_other] => wer
+    [slmta_labtype] => 1
+    [submit_button] => Create
+)
+ 
+2014-11-25 2:35:50 - INFO  --> LABROW: Array
+(
+    [labname] => qwertrf
+    [labnum] => lab-007
+    [street] => qewrtr
+    [street2] => qewr
+    [street3] => qwer
+    [city] => qwert
+    [state] => qwer
+    [country] => qwert
+    [postcode] => qwer
+    [labtel] => qwre
+    [labfax] => qwert
+    [labemail] => qwer
+    [lablevel] => NATIONAL
+    [labaffil] => PUBLIC
+    [labaffil_other] => wer
+    [slmta_labtype] => 1
+)
+ 
+2014-11-25 2:35:50 - INFO  --> bylabnum: lab-007 -> Array
+(
+    [id] => 1
+    [labname] => Best Lab, Inc
+    [labnum] => lab-007
+    [street] => 124 Morrow Ln
+    [street2] => 
+    [street3] => 
+    [city] => Alpharetta
+    [state] => GA
+    [country] => USA
+    [postcode] => 30076
+    [labtel] => 404.776.3490
+    [labfax] => 404.453.4532
+    [labemail] => user@lab.com
+    [lablevel] => REGIONAL
+    [labaffil] => RESEARCH
+    [labaffil_other] => 
+    [slmta_labtype] => 2
+)
+ 
+2014-11-25 2:35:50 - INFO  --> SQL: select dialog_id from dialog where field_name='lab/create' 
+2014-11-25 2:35:50 - INFO  --> SQL: select * from dialog where dialog_id = 2 order by position 
+2014-11-25 2:35:50 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:35:50 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:35:50 - INFO  --> in fillout init 
+2014-11-25 2:35:50 - INFO  --> in fillout init 
+2014-11-25 2:35:50 - INFO  --> in fillout init 
+2014-11-25 2:35:50 - INFO  --> in fillout init 
+2014-11-25 2:35:50 - INFO  --> in fillout init 
+2014-11-25 2:35:50 - INFO  --> in fillout init 
+2014-11-25 2:35:50 - INFO  --> in fillout init 
+2014-11-25 2:35:50 - INFO  --> in fillout init 
+2014-11-25 2:35:50 - INFO  --> in fillout init 
+2014-11-25 2:35:50 - INFO  --> in fillout init 
+2014-11-25 2:35:50 - INFO  --> in fillout init 
+2014-11-25 2:35:50 - INFO  --> in fillout init 
+2014-11-25 2:35:50 - INFO  --> in fillout init 
+2014-11-25 2:35:50 - INFO  --> in fillout init 
+2014-11-25 2:35:50 - INFO  --> SELECT: lablevel - NATIONAL NATIONAL 
+2014-11-25 2:35:50 - INFO  --> in fillout init 
+2014-11-25 2:35:50 - INFO  --> SELECT: labaffil - PUBLIC PUBLIC 
+2014-11-25 2:35:50 - INFO  --> in fillout init 
+2014-11-25 2:35:50 - INFO  --> in fillout init 
+2014-11-25 2:35:50 - INFO  --> SELECT: slmta_labtype - 1 1 
+2014-11-25 2:35:50 - INFO  --> in fillout init 
+2014-11-25 2:35:50 - INFO  --> Error: Array
+(
+)
+ 

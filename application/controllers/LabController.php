@@ -33,12 +33,19 @@ class LabController extends Checklist_Controller_Action
       unset($this->data['submit_button']);
       $labrow = unserialize(serialize($this->data));
       $this->log->logit('LABROW: '. print_r($labrow, true));
-      $newlabid = $lab->insertData($labrow);
-      $labrow['id'] = $newlabid;
-      $this->log->logit('LABROW: '. print_r($labrow, true));
-      $this->session->lab = $labrow;
-      $this->init();
-      $this->_redirector->gotoUrl($this->mainpage);
+      if(!empty($lab->getLabByLabnum($this->data['labnum']))){
+        $this->session->flash = "Lab number already exists!";
+        $this->makeDialog($this->data);
+        return;
+      }
+      else{
+        $newlabid = $lab->insertData($labrow);
+        $labrow['id'] = $newlabid;
+        $this->log->logit('LABROW: '. print_r($labrow, true));
+        $this->session->lab = $labrow;
+        $this->init();
+        $this->_redirector->gotoUrl($this->mainpage);
+      }
     }
   }
 
