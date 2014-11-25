@@ -1042,11 +1042,11 @@ class AuditController extends Checklist_Controller_Action
   {
     // show the owners of the selected audit
     $ao = new Application_Model_DbTable_AuditOwner();
-    $showlines = array();
     if ($this->session->audit)
     {
       $audit_id = $this->session->audit['audit_id'];
       $urows = $ao->getOwnersByAuditId($audit_id);
+      $showlines = array();
       $showlines[] = "<div style=\"margin-left:200px;\"><h3>Names of owners of (selected) audit id #{$audit_id}<br />";
       $showlines[] = '<table">';
       foreach($urows as $u)
@@ -1054,15 +1054,15 @@ class AuditController extends Checklist_Controller_Action
         $showlines[] = "<span style=\"color:black;font-weight:normal;\">{$u['name']}</span><br />";
       }
       $showlines[] = '</table></div>';
-    }
-    $this->view->showlines = implode("\n", $showlines);
-    if(!$this->view->showlines){
-      $this->session->flash = 'Please choose an audit.';
-      $this->makeDialog();
-      return;
+    
+      $this->view->showlines = implode("\n", $showlines);
+      $this->_helper->layout->setLayout('overall');
     }
     else{
-      $this->_helper->layout->setLayout('overall');
+      $this->session->flash = 'Please select an audit.';
+      $this->dialog_name = 'audit/search';
+      $this->makeDialog();
+      return;
     }
   }
 

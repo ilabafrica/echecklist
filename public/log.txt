@@ -60432,3 +60432,993 @@ India 100076
 2014-11-24 10:57:47 - INFO  --> in fillout init 
 2014-11-24 10:57:47 - INFO  --> in fillout init 
 2014-11-24 10:57:47 - INFO  --> in fillout init 
+2014-11-25 1:36:06 - INFO  --> in fillout init 
+2014-11-25 1:36:06 - INFO  --> audit:  
+2014-11-25 1:36:06 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:36:06 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:36:06 - INFO  --> MT aud init: 1416897366.7198 
+2014-11-25 1:36:06 - INFO  --> SQL: select dialog_id from dialog where field_name='' 
+2014-11-25 1:36:06 - INFO  --> SQL: select * from dialog where dialog_id = 9 order by position 
+2014-11-25 1:36:06 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:36:06 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:36:06 - INFO  --> in fillout init 
+2014-11-25 1:36:06 - INFO  --> in fillout init 
+2014-11-25 1:36:06 - INFO  --> in fillout init 
+2014-11-25 1:36:06 - INFO  --> SQL: select distinct tag from template_type 
+2014-11-25 1:36:06 - INFO  --> SELECT: audit_type -   
+2014-11-25 1:36:06 - INFO  --> in fillout init 
+2014-11-25 1:36:06 - INFO  --> SELECT: todo -   
+2014-11-25 1:36:06 - INFO  --> in fillout init 
+2014-11-25 1:36:06 - INFO  --> in fillout init 
+2014-11-25 1:36:06 - INFO  --> SQL: select distinct country from lab 
+2014-11-25 1:36:06 - INFO  --> SELECT: country -   
+2014-11-25 1:36:06 - INFO  --> in fillout init 
+2014-11-25 1:36:06 - INFO  --> SELECT: lablevel -   
+2014-11-25 1:36:06 - INFO  --> in fillout init 
+2014-11-25 1:36:06 - INFO  --> SELECT: labaffil -   
+2014-11-25 1:36:06 - INFO  --> in fillout init 
+2014-11-25 1:36:06 - INFO  --> in fillout init 
+2014-11-25 1:36:06 - INFO  --> SELECT: audit_status -   
+2014-11-25 1:36:06 - INFO  --> in fillout init 
+2014-11-25 1:36:06 - INFO  --> SELECT: slmta_type -   
+2014-11-25 1:36:06 - INFO  --> in fillout init 
+2014-11-25 1:36:06 - INFO  --> SQL: select distinct cohort_id from audit 
+2014-11-25 1:36:06 - INFO  --> SELECT: cohortid -   
+2014-11-25 1:36:06 - INFO  --> in fillout init 
+2014-11-25 1:36:06 - INFO  --> in fillout init 
+2014-11-25 1:36:06 - INFO  --> in fillout init 
+2014-11-25 1:36:50 - INFO  --> in fillout init 
+2014-11-25 1:36:50 - INFO  --> audit:  
+2014-11-25 1:36:50 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:36:50 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:36:50 - INFO  --> MT aud init: 1416897410.7893 
+2014-11-25 1:36:50 - INFO  --> SQL: select dialog_id from dialog where field_name='' 
+2014-11-25 1:36:50 - INFO  --> SQL: select * from dialog where dialog_id = 9 order by position 
+2014-11-25 1:36:50 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:36:50 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:36:50 - INFO  --> in fillout init 
+2014-11-25 1:36:50 - INFO  --> in fillout init 
+2014-11-25 1:36:50 - INFO  --> in fillout init 
+2014-11-25 1:36:50 - INFO  --> SQL: select distinct tag from template_type 
+2014-11-25 1:36:50 - INFO  --> SELECT: audit_type -   
+2014-11-25 1:36:50 - INFO  --> in fillout init 
+2014-11-25 1:36:50 - INFO  --> SELECT: todo -   
+2014-11-25 1:36:50 - INFO  --> in fillout init 
+2014-11-25 1:36:50 - INFO  --> in fillout init 
+2014-11-25 1:36:50 - INFO  --> SQL: select distinct country from lab 
+2014-11-25 1:36:50 - INFO  --> SELECT: country -   
+2014-11-25 1:36:50 - INFO  --> in fillout init 
+2014-11-25 1:36:50 - INFO  --> SELECT: lablevel -   
+2014-11-25 1:36:50 - INFO  --> in fillout init 
+2014-11-25 1:36:50 - INFO  --> SELECT: labaffil -   
+2014-11-25 1:36:50 - INFO  --> in fillout init 
+2014-11-25 1:36:50 - INFO  --> in fillout init 
+2014-11-25 1:36:50 - INFO  --> SELECT: audit_status -   
+2014-11-25 1:36:50 - INFO  --> in fillout init 
+2014-11-25 1:36:50 - INFO  --> SELECT: slmta_type -   
+2014-11-25 1:36:50 - INFO  --> in fillout init 
+2014-11-25 1:36:50 - INFO  --> SQL: select distinct cohort_id from audit 
+2014-11-25 1:36:50 - INFO  --> SELECT: cohortid -   
+2014-11-25 1:36:50 - INFO  --> in fillout init 
+2014-11-25 1:36:50 - INFO  --> in fillout init 
+2014-11-25 1:36:50 - INFO  --> in fillout init 
+2014-11-25 1:37:46 - INFO  --> in fillout init 
+2014-11-25 1:37:46 - INFO  --> audit:  
+2014-11-25 1:37:46 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:37:46 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:37:46 - INFO  --> MT aud init: 1416897466.5405 
+2014-11-25 1:37:46 - INFO  --> SQL: select dialog_id from dialog where field_name='audit/search' 
+2014-11-25 1:37:46 - INFO  --> SQL: select * from dialog where dialog_id = 16 order by position 
+2014-11-25 1:37:46 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:37:46 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:37:46 - INFO  --> in fillout init 
+2014-11-25 1:37:46 - INFO  --> in fillout init 
+2014-11-25 1:37:46 - INFO  --> in fillout init 
+2014-11-25 1:37:46 - INFO  --> SQL: select distinct tag from template_type 
+2014-11-25 1:37:46 - INFO  --> SELECT: audit_type -   
+2014-11-25 1:37:46 - INFO  --> in fillout init 
+2014-11-25 1:37:46 - INFO  --> SELECT: audit_status -   
+2014-11-25 1:37:46 - INFO  --> in fillout init 
+2014-11-25 1:37:46 - INFO  --> in fillout init 
+2014-11-25 1:37:46 - INFO  --> SQL: select distinct country from lab 
+2014-11-25 1:37:46 - INFO  --> SELECT: country -   
+2014-11-25 1:37:46 - INFO  --> in fillout init 
+2014-11-25 1:37:46 - INFO  --> SELECT: lablevel -   
+2014-11-25 1:37:46 - INFO  --> in fillout init 
+2014-11-25 1:37:46 - INFO  --> SELECT: labaffil -   
+2014-11-25 1:37:46 - INFO  --> in fillout init 
+2014-11-25 1:37:46 - INFO  --> in fillout init 
+2014-11-25 1:37:46 - INFO  --> SELECT: slmta_type -   
+2014-11-25 1:37:46 - INFO  --> in fillout init 
+2014-11-25 1:37:46 - INFO  --> SQL: select distinct cohort_id from audit 
+2014-11-25 1:37:46 - INFO  --> COHORTID: Array
+(
+    [0] => Array
+        (
+            [cohort_id] => 3
+        )
+
+    [1] => Array
+        (
+            [cohort_id] => 4
+        )
+
+    [2] => Array
+        (
+            [cohort_id] => 5
+        )
+
+    [3] => Array
+        (
+            [cohort_id] => 
+        )
+
+    [4] => Array
+        (
+            [cohort_id] => 98
+        )
+
+    [5] => Array
+        (
+            [cohort_id] => 9
+        )
+
+    [6] => Array
+        (
+            [cohort_id] => 10
+        )
+
+    [7] => Array
+        (
+            [cohort_id] => 11
+        )
+
+    [8] => Array
+        (
+            [cohort_id] => 12
+        )
+
+    [9] => Array
+        (
+            [cohort_id] => 13
+        )
+
+    [10] => Array
+        (
+            [cohort_id] => 1
+        )
+
+)
+ 
+2014-11-25 1:37:46 - INFO  --> SELECT: cohortid -   
+2014-11-25 1:37:46 - INFO  --> in fillout init 
+2014-11-25 1:37:46 - INFO  --> in fillout init 
+2014-11-25 1:37:46 - INFO  --> in fillout init 
+2014-11-25 1:37:56 - INFO  --> in fillout init 
+2014-11-25 1:37:56 - INFO  --> audit:  
+2014-11-25 1:37:56 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:37:56 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:37:56 - INFO  --> MT aud init: 1416897476.9701 
+2014-11-25 1:38:02 - INFO  --> in fillout init 
+2014-11-25 1:38:02 - INFO  --> audit:  
+2014-11-25 1:38:02 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:38:02 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:38:02 - INFO  --> MT aud init: 1416897482.9014 
+2014-11-25 1:38:02 - INFO  --> SQL: select dialog_id from dialog where field_name='audit/search' 
+2014-11-25 1:38:02 - INFO  --> SQL: select * from dialog where dialog_id = 16 order by position 
+2014-11-25 1:38:02 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:38:02 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:38:02 - INFO  --> in fillout init 
+2014-11-25 1:38:02 - INFO  --> in fillout init 
+2014-11-25 1:38:02 - INFO  --> in fillout init 
+2014-11-25 1:38:02 - INFO  --> SQL: select distinct tag from template_type 
+2014-11-25 1:38:02 - INFO  --> SELECT: audit_type -   
+2014-11-25 1:38:02 - INFO  --> in fillout init 
+2014-11-25 1:38:02 - INFO  --> SELECT: audit_status -   
+2014-11-25 1:38:02 - INFO  --> in fillout init 
+2014-11-25 1:38:02 - INFO  --> in fillout init 
+2014-11-25 1:38:02 - INFO  --> SQL: select distinct country from lab 
+2014-11-25 1:38:03 - INFO  --> SELECT: country -   
+2014-11-25 1:38:03 - INFO  --> in fillout init 
+2014-11-25 1:38:03 - INFO  --> SELECT: lablevel -   
+2014-11-25 1:38:03 - INFO  --> in fillout init 
+2014-11-25 1:38:03 - INFO  --> SELECT: labaffil -   
+2014-11-25 1:38:03 - INFO  --> in fillout init 
+2014-11-25 1:38:03 - INFO  --> in fillout init 
+2014-11-25 1:38:03 - INFO  --> SELECT: slmta_type -   
+2014-11-25 1:38:03 - INFO  --> in fillout init 
+2014-11-25 1:38:03 - INFO  --> SQL: select distinct cohort_id from audit 
+2014-11-25 1:38:03 - INFO  --> COHORTID: Array
+(
+    [0] => Array
+        (
+            [cohort_id] => 3
+        )
+
+    [1] => Array
+        (
+            [cohort_id] => 4
+        )
+
+    [2] => Array
+        (
+            [cohort_id] => 5
+        )
+
+    [3] => Array
+        (
+            [cohort_id] => 
+        )
+
+    [4] => Array
+        (
+            [cohort_id] => 98
+        )
+
+    [5] => Array
+        (
+            [cohort_id] => 9
+        )
+
+    [6] => Array
+        (
+            [cohort_id] => 10
+        )
+
+    [7] => Array
+        (
+            [cohort_id] => 11
+        )
+
+    [8] => Array
+        (
+            [cohort_id] => 12
+        )
+
+    [9] => Array
+        (
+            [cohort_id] => 13
+        )
+
+    [10] => Array
+        (
+            [cohort_id] => 1
+        )
+
+)
+ 
+2014-11-25 1:38:03 - INFO  --> SELECT: cohortid -   
+2014-11-25 1:38:03 - INFO  --> in fillout init 
+2014-11-25 1:38:03 - INFO  --> in fillout init 
+2014-11-25 1:38:03 - INFO  --> in fillout init 
+2014-11-25 1:38:55 - INFO  --> in fillout init 
+2014-11-25 1:38:55 - INFO  --> audit:  
+2014-11-25 1:38:55 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:38:55 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:38:55 - INFO  --> MT aud init: 1416897535.6014 
+2014-11-25 1:38:55 - INFO  --> SQL: select dialog_id from dialog where field_name='audit/search' 
+2014-11-25 1:38:55 - INFO  --> SQL: select * from dialog where dialog_id = 16 order by position 
+2014-11-25 1:38:55 - INFO  --> VAL:  
+2014-11-25 1:38:55 - INFO  --> VAL:  
+2014-11-25 1:38:55 - INFO  --> VAL:  
+2014-11-25 1:38:55 - INFO  --> VAL:  
+2014-11-25 1:38:55 - INFO  --> VAL:  
+2014-11-25 1:38:55 - INFO  --> VAL:  
+2014-11-25 1:38:55 - INFO  --> VAL:  
+2014-11-25 1:38:55 - INFO  --> VAL:  
+2014-11-25 1:38:55 - INFO  --> VAL:  
+2014-11-25 1:38:55 - INFO  --> VAL:  
+2014-11-25 1:38:55 - INFO  --> VAL:  
+2014-11-25 1:38:55 - INFO  --> VAL:  
+2014-11-25 1:38:55 - INFO  --> VAL:  
+2014-11-25 1:38:55 - INFO  --> COLL: Array
+(
+    [] => 
+    [audit_type] => SLIPTA
+    [audit_status] => INCOMPLETE
+    [country] => USA
+    [lablevel] => NATIONAL
+    [labaffil] => PUBLIC
+    [slmta_type] => BASE
+    [cohortid] => 4
+    [stdate] => 11/01/2014
+    [enddate] => 11/20/2014
+    [submit_button] => Search
+)
+ 
+2014-11-25 1:38:55 - INFO  --> HC: Array
+(
+    [] => 
+    [audit_type] => SLIPTA
+    [audit_status] => INCOMPLETE
+    [country] => USA
+    [lablevel] => NATIONAL
+    [labaffil] => PUBLIC
+    [slmta_type] => BASE
+    [cohortid] => 4
+    [stdate] => 11/01/2014
+    [enddate] => 11/20/2014
+    [submit_button] => Search
+)
+ 
+2014-11-25 1:38:55 - INFO  --> ECT: 0 
+2014-11-25 1:38:55 - INFO  --> DATA: Array
+(
+    [] => 
+    [audit_type] => SLIPTA
+    [audit_status] => INCOMPLETE
+    [country] => USA
+    [lablevel] => NATIONAL
+    [labaffil] => PUBLIC
+    [slmta_type] => BASE
+    [cohortid] => 4
+    [stdate] => 11/01/2014
+    [enddate] => 11/20/2014
+    [submit_button] => Search
+)
+ 
+2014-11-25 1:38:55 - INFO  --> BEG  ->   
+2014-11-25 1:38:55 - INFO  --> BEG audit_type -> SLIPTA SLIPTA 
+2014-11-25 1:38:55 - INFO  --> BEG audit_status -> INCOMPLETE INCOMPLETE 
+2014-11-25 1:38:55 - INFO  --> BEG country -> USA USA 
+2014-11-25 1:38:55 - INFO  --> BEG lablevel -> NATIONAL NATIONAL 
+2014-11-25 1:38:55 - INFO  --> BEG labaffil -> PUBLIC PUBLIC 
+2014-11-25 1:38:55 - INFO  --> BEG slmta_type -> BASE BASE 
+2014-11-25 1:38:55 - INFO  --> BEG cohortid -> 4 4 
+2014-11-25 1:38:55 - INFO  --> BEG stdate -> 11/01/2014 11/01/2014 
+2014-11-25 1:38:55 - INFO  --> BEG enddate -> 11/20/2014 11/20/2014 
+2014-11-25 1:38:55 - INFO  --> BEG submit_button -> Search Search 
+2014-11-25 1:38:55 - INFO  --> LIST: audit_type -> SLIPTA 
+2014-11-25 1:38:55 - INFO  --> LIST: audit_status -> INCOMPLETE 
+2014-11-25 1:38:55 - INFO  --> LIST: country -> USA 
+2014-11-25 1:38:55 - INFO  --> LIST: lablevel -> NATIONAL 
+2014-11-25 1:38:55 - INFO  --> LIST: labaffil -> PUBLIC 
+2014-11-25 1:38:55 - INFO  --> LIST: slmta_type -> BASE 
+2014-11-25 1:38:55 - INFO  --> LIST: cohortid -> 4 
+2014-11-25 1:38:55 - INFO  --> LIST: stdate -> 11/01/2014 
+2014-11-25 1:38:55 - INFO  --> Date: 2014-11-01 
+2014-11-25 1:38:55 - INFO  --> LIST: enddate -> 11/20/2014 
+2014-11-25 1:48:00 - INFO  --> in fillout init 
+2014-11-25 1:48:00 - INFO  --> audit:  
+2014-11-25 1:48:00 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:48:00 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:48:00 - INFO  --> MT aud init: 1416898080.6386 
+2014-11-25 1:48:00 - INFO  --> SQL: select dialog_id from dialog where field_name='audit/search' 
+2014-11-25 1:48:00 - INFO  --> SQL: select * from dialog where dialog_id = 16 order by position 
+2014-11-25 1:48:00 - INFO  --> VAL:  
+2014-11-25 1:48:00 - INFO  --> VAL:  
+2014-11-25 1:48:00 - INFO  --> VAL:  
+2014-11-25 1:48:00 - INFO  --> VAL:  
+2014-11-25 1:48:00 - INFO  --> VAL:  
+2014-11-25 1:48:00 - INFO  --> VAL:  
+2014-11-25 1:48:00 - INFO  --> VAL:  
+2014-11-25 1:48:00 - INFO  --> VAL:  
+2014-11-25 1:48:00 - INFO  --> VAL:  
+2014-11-25 1:48:00 - INFO  --> VAL:  
+2014-11-25 1:48:00 - INFO  --> VAL:  
+2014-11-25 1:48:00 - INFO  --> VAL:  
+2014-11-25 1:48:00 - INFO  --> VAL:  
+2014-11-25 1:48:00 - INFO  --> COLL: Array
+(
+    [] => 
+    [audit_type] => SLIPTA
+    [audit_status] => INCOMPLETE
+    [country] => USA
+    [lablevel] => NATIONAL
+    [labaffil] => PUBLIC
+    [slmta_type] => BASE
+    [cohortid] => 4
+    [stdate] => 11/01/2014
+    [enddate] => 11/20/2014
+    [submit_button] => Search
+)
+ 
+2014-11-25 1:48:00 - INFO  --> HC: Array
+(
+    [] => 
+    [audit_type] => SLIPTA
+    [audit_status] => INCOMPLETE
+    [country] => USA
+    [lablevel] => NATIONAL
+    [labaffil] => PUBLIC
+    [slmta_type] => BASE
+    [cohortid] => 4
+    [stdate] => 11/01/2014
+    [enddate] => 11/20/2014
+    [submit_button] => Search
+)
+ 
+2014-11-25 1:48:00 - INFO  --> ECT: 0 
+2014-11-25 1:48:00 - INFO  --> DATA: Array
+(
+    [] => 
+    [audit_type] => SLIPTA
+    [audit_status] => INCOMPLETE
+    [country] => USA
+    [lablevel] => NATIONAL
+    [labaffil] => PUBLIC
+    [slmta_type] => BASE
+    [cohortid] => 4
+    [stdate] => 11/01/2014
+    [enddate] => 11/20/2014
+    [submit_button] => Search
+)
+ 
+2014-11-25 1:48:00 - INFO  --> BEG  ->   
+2014-11-25 1:48:00 - INFO  --> BEG audit_type -> SLIPTA SLIPTA 
+2014-11-25 1:48:00 - INFO  --> BEG audit_status -> INCOMPLETE INCOMPLETE 
+2014-11-25 1:48:00 - INFO  --> BEG country -> USA USA 
+2014-11-25 1:48:00 - INFO  --> BEG lablevel -> NATIONAL NATIONAL 
+2014-11-25 1:48:00 - INFO  --> BEG labaffil -> PUBLIC PUBLIC 
+2014-11-25 1:48:00 - INFO  --> BEG slmta_type -> BASE BASE 
+2014-11-25 1:48:00 - INFO  --> BEG cohortid -> 4 4 
+2014-11-25 1:48:00 - INFO  --> BEG stdate -> 11/01/2014 11/01/2014 
+2014-11-25 1:48:00 - INFO  --> BEG enddate -> 11/20/2014 11/20/2014 
+2014-11-25 1:48:00 - INFO  --> BEG submit_button -> Search Search 
+2014-11-25 1:48:00 - INFO  --> LIST: audit_type -> SLIPTA 
+2014-11-25 1:48:00 - INFO  --> LIST: audit_status -> INCOMPLETE 
+2014-11-25 1:48:00 - INFO  --> LIST: country -> USA 
+2014-11-25 1:48:00 - INFO  --> LIST: lablevel -> NATIONAL 
+2014-11-25 1:48:00 - INFO  --> LIST: labaffil -> PUBLIC 
+2014-11-25 1:48:00 - INFO  --> LIST: slmta_type -> BASE 
+2014-11-25 1:48:00 - INFO  --> LIST: cohortid -> 4 
+2014-11-25 1:48:00 - INFO  --> LIST: stdate -> 11/01/2014 
+2014-11-25 1:48:00 - INFO  --> Date: 2014-11-01 
+2014-11-25 1:48:00 - INFO  --> LIST: enddate -> 11/20/2014 
+2014-11-25 1:48:00 - INFO  --> Date: 2014-11-20 
+2014-11-25 1:48:00 - INFO  --> LIST: submit_button -> Search 
+2014-11-25 1:48:00 - INFO  --> SQL: select a.id audit_id, a.end_date, a.cohort_id, a.status, a.slipta_official,
+       a.slmta_type, a.audit_type, l.id labid, a.audit_type tag,
+       l.labname, l.labnum, l.country, l.lablevel, l.labaffil, ao.owner
+  from lab l, audit a left join audit_owner ao on
+       (ao.owner = 21 and ao.audit_id = a.id)
+ where l.id = a.lab_id and a.audit_type = 'SLIPTA'  and a.status = 'INCOMPLETE'  and l.country = 'USA'  and l.lablevel = 'NATIONAL'  and l.labaffil = 'PUBLIC'  and a.slmta_type = 'BASE'  and a.cohort_id = '4'  and a.end_date >= '2014-11-01'  and a.end_date <= '2014-11-20'  
+2014-11-25 1:48:00 - INFO  --> CSQL: select a.id audit_id, a.end_date, a.cohort_id, a.status, a.slipta_official,
+       a.slmta_type, a.audit_type, l.id labid, a.audit_type tag,
+       l.labname, l.labnum, l.country, l.lablevel, l.labaffil, ao.owner
+  from lab l, audit a left join audit_owner ao on
+       (ao.owner = 21 and ao.audit_id = a.id)
+ where l.id = a.lab_id and a.audit_type = 'SLIPTA'  and a.status = 'INCOMPLETE'  and l.country = 'USA'  and l.lablevel = 'NATIONAL'  and l.labaffil = 'PUBLIC'  and a.slmta_type = 'BASE'  and a.cohort_id = '4'  and a.end_date >= '2014-11-01'  and a.end_date <= '2014-11-20'  order by a.end_date desc, a.audit_type 
+2014-11-25 1:48:00 - INFO  --> SQL: select a.id audit_id, a.end_date, a.cohort_id, a.status, a.slipta_official,
+       a.slmta_type, a.audit_type, l.id labid, a.audit_type tag,
+       l.labname, l.labnum, l.country, l.lablevel, l.labaffil, ao.owner
+  from lab l, audit a left join audit_owner ao on
+       (ao.owner = 21 and ao.audit_id = a.id)
+ where l.id = a.lab_id and a.audit_type = 'SLIPTA'  and a.status = 'INCOMPLETE'  and l.country = 'USA'  and l.lablevel = 'NATIONAL'  and l.labaffil = 'PUBLIC'  and a.slmta_type = 'BASE'  and a.cohort_id = '4'  and a.end_date >= '2014-11-01'  and a.end_date <= '2014-11-20'  order by a.end_date desc, a.audit_type 
+2014-11-25 1:48:00 - INFO  --> SQL: select dialog_id from dialog where field_name='audit/search' 
+2014-11-25 1:48:00 - INFO  --> SQL: select * from dialog where dialog_id = 16 order by position 
+2014-11-25 1:48:01 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:48:01 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:48:01 - INFO  --> in fillout init 
+2014-11-25 1:48:01 - INFO  --> in fillout init 
+2014-11-25 1:48:01 - INFO  --> in fillout init 
+2014-11-25 1:48:01 - INFO  --> SQL: select distinct tag from template_type 
+2014-11-25 1:48:01 - INFO  --> SELECT: audit_type - SLIPTA SLIPTA 
+2014-11-25 1:48:01 - INFO  --> in fillout init 
+2014-11-25 1:48:01 - INFO  --> SELECT: audit_status - INCOMPLETE INCOMPLETE 
+2014-11-25 1:48:01 - INFO  --> in fillout init 
+2014-11-25 1:48:01 - INFO  --> in fillout init 
+2014-11-25 1:48:01 - INFO  --> SQL: select distinct country from lab 
+2014-11-25 1:48:01 - INFO  --> SELECT: country - USA USA 
+2014-11-25 1:48:01 - INFO  --> in fillout init 
+2014-11-25 1:48:01 - INFO  --> SELECT: lablevel - NATIONAL NATIONAL 
+2014-11-25 1:48:01 - INFO  --> in fillout init 
+2014-11-25 1:48:01 - INFO  --> SELECT: labaffil - PUBLIC PUBLIC 
+2014-11-25 1:48:01 - INFO  --> in fillout init 
+2014-11-25 1:48:01 - INFO  --> in fillout init 
+2014-11-25 1:48:01 - INFO  --> SELECT: slmta_type - BASE BASE 
+2014-11-25 1:48:01 - INFO  --> in fillout init 
+2014-11-25 1:48:01 - INFO  --> SQL: select distinct cohort_id from audit 
+2014-11-25 1:48:01 - INFO  --> COHORTID: Array
+(
+    [0] => Array
+        (
+            [cohort_id] => 3
+        )
+
+    [1] => Array
+        (
+            [cohort_id] => 4
+        )
+
+    [2] => Array
+        (
+            [cohort_id] => 5
+        )
+
+    [3] => Array
+        (
+            [cohort_id] => 
+        )
+
+    [4] => Array
+        (
+            [cohort_id] => 98
+        )
+
+    [5] => Array
+        (
+            [cohort_id] => 9
+        )
+
+    [6] => Array
+        (
+            [cohort_id] => 10
+        )
+
+    [7] => Array
+        (
+            [cohort_id] => 11
+        )
+
+    [8] => Array
+        (
+            [cohort_id] => 12
+        )
+
+    [9] => Array
+        (
+            [cohort_id] => 13
+        )
+
+    [10] => Array
+        (
+            [cohort_id] => 1
+        )
+
+)
+ 
+2014-11-25 1:48:01 - INFO  --> SELECT: cohortid - 4 4 
+2014-11-25 1:48:01 - INFO  --> in fillout init 
+2014-11-25 1:48:01 - INFO  --> in fillout init 
+2014-11-25 1:48:01 - INFO  --> in fillout init 
+2014-11-25 1:48:01 - INFO  --> Error: Array
+(
+)
+ 
+2014-11-25 1:52:27 - INFO  --> in fillout init 
+2014-11-25 1:52:27 - INFO  --> audit:  
+2014-11-25 1:52:27 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:52:27 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:52:27 - INFO  --> MT aud init: 1416898347.8899 
+2014-11-25 1:52:32 - INFO  --> in fillout init 
+2014-11-25 1:52:32 - INFO  --> audit:  
+2014-11-25 1:52:32 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:52:32 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:52:32 - INFO  --> MT aud init: 1416898352.4681 
+2014-11-25 1:52:49 - INFO  --> in fillout init 
+2014-11-25 1:52:49 - INFO  --> audit:  
+2014-11-25 1:52:49 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:52:49 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:52:49 - INFO  --> MT aud init: 1416898369.2831 
+2014-11-25 1:52:52 - INFO  --> in fillout init 
+2014-11-25 1:52:52 - INFO  --> audit:  
+2014-11-25 1:52:52 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:52:52 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:52:52 - INFO  --> MT aud init: 1416898372.4785 
+2014-11-25 1:56:01 - INFO  --> in fillout init 
+2014-11-25 1:56:02 - INFO  --> audit:  
+2014-11-25 1:56:02 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:56:02 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:56:02 - INFO  --> MT aud init: 1416898562.0623 
+2014-11-25 1:56:06 - INFO  --> in fillout init 
+2014-11-25 1:56:06 - INFO  --> audit:  
+2014-11-25 1:56:06 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:56:06 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:56:06 - INFO  --> MT aud init: 1416898566.0885 
+2014-11-25 1:56:31 - INFO  --> in fillout init 
+2014-11-25 1:56:31 - INFO  --> audit:  
+2014-11-25 1:56:31 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:56:31 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:56:31 - INFO  --> MT aud init: 1416898591.458 
+2014-11-25 1:56:35 - INFO  --> in fillout init 
+2014-11-25 1:56:35 - INFO  --> audit:  
+2014-11-25 1:56:35 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:56:35 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:56:35 - INFO  --> Find:  
+2014-11-25 1:56:35 - INFO  --> Find: In display 
+2014-11-25 1:56:35 - INFO  --> SQL: select dialog_id from dialog where field_name='lab/select' 
+2014-11-25 1:56:35 - INFO  --> SQL: select * from dialog where dialog_id = 8 order by position 
+2014-11-25 1:56:35 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:56:35 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:56:35 - INFO  --> in fillout init 
+2014-11-25 1:56:35 - INFO  --> in fillout init 
+2014-11-25 1:56:35 - INFO  --> SQL: select distinct country from lab 
+2014-11-25 1:56:35 - INFO  --> SELECT: country -   
+2014-11-25 1:56:35 - INFO  --> in fillout init 
+2014-11-25 1:56:35 - INFO  --> in fillout init 
+2014-11-25 1:56:35 - INFO  --> in fillout init 
+2014-11-25 1:56:40 - INFO  --> in fillout init 
+2014-11-25 1:56:40 - INFO  --> audit:  
+2014-11-25 1:56:40 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:56:40 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:56:40 - INFO  --> Find:  
+2014-11-25 1:56:40 - INFO  --> SQL: select dialog_id from dialog where field_name='lab/select' 
+2014-11-25 1:56:40 - INFO  --> SQL: select * from dialog where dialog_id = 8 order by position 
+2014-11-25 1:56:40 - INFO  --> VAL:  
+2014-11-25 1:56:40 - INFO  --> VAL:  
+2014-11-25 1:56:40 - INFO  --> VAL:  
+2014-11-25 1:56:40 - INFO  --> VAL:  
+2014-11-25 1:56:40 - INFO  --> COLL: Array
+(
+    [country] => BALI
+    [labname] => 
+    [labnum] => 
+    [submit_button] => Select
+)
+ 
+2014-11-25 1:56:40 - INFO  --> HC: Array
+(
+    [country] => BALI
+    [labname] => 
+    [labnum] => 
+    [submit_button] => Select
+)
+ 
+2014-11-25 1:56:40 - INFO  --> ECT: 0 
+2014-11-25 1:56:40 - INFO  --> Find: In post 
+2014-11-25 1:56:40 - INFO  --> tdlab: Array
+(
+    [country] => BALI
+    [labname] => 
+    [labnum] => 
+    [submit_button] => Select
+)
+ 
+2014-11-25 1:56:40 - INFO  --> Lab:getLabs: Array
+(
+    [country] => BALI
+    [labname] => 
+    [labnum] => 
+    [submit_button] => Select
+)
+ 0, 1000 
+2014-11-25 1:56:40 - INFO  --> getLabs: select * from lab where 1=1  and country = 'BALI'  
+2014-11-25 1:56:40 - INFO  --> SQL: select * from lab where 1=1  and country = 'BALI'  
+2014-11-25 1:56:40 - INFO  --> ruby con -- Bali 
+2014-11-25 1:56:40 - INFO  --> SQL: select dialog_id from dialog where field_name='lab/select' 
+2014-11-25 1:56:40 - INFO  --> SQL: select * from dialog where dialog_id = 8 order by position 
+2014-11-25 1:56:40 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:56:40 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:56:40 - INFO  --> in fillout init 
+2014-11-25 1:56:40 - INFO  --> in fillout init 
+2014-11-25 1:56:40 - INFO  --> SQL: select distinct country from lab 
+2014-11-25 1:56:40 - INFO  --> SELECT: country - BALI BALI 
+2014-11-25 1:56:40 - INFO  --> in fillout init 
+2014-11-25 1:56:40 - INFO  --> in fillout init 
+2014-11-25 1:56:40 - INFO  --> in fillout init 
+2014-11-25 1:56:40 - INFO  --> Error: Array
+(
+)
+ 
+2014-11-25 1:56:42 - INFO  --> in fillout init 
+2014-11-25 1:56:42 - INFO  --> audit:  
+2014-11-25 1:56:42 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:56:42 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:56:42 - INFO  --> SELLAB: Array
+(
+    [id] => 4
+    [labname] => ruby con
+    [labnum] => 987 tyr
+    [street] => 
+    [street2] => 
+    [street3] => 
+    [city] => 
+    [state] => 
+    [country] => Bali
+    [postcode] => 
+    [labtel] => 
+    [labfax] => 
+    [labemail] => 
+    [lablevel] => DISTRICT
+    [labaffil] => PUBLIC
+    [labaffil_other] => 
+    [slmta_labtype] => 2
+)
+ 
+2014-11-25 1:56:42 - INFO  --> AT: Array
+(
+    [id] => 4
+    [labname] => ruby con
+    [labnum] => 987 tyr
+    [street] => 
+    [street2] => 
+    [street3] => 
+    [city] => 
+    [state] => 
+    [country] => Bali
+    [postcode] => 
+    [labtel] => 
+    [labfax] => 
+    [labemail] => 
+    [lablevel] => DISTRICT
+    [labaffil] => PUBLIC
+    [labaffil_other] => 
+    [slmta_labtype] => 2
+)
+ 
+2014-11-25 1:56:42 - INFO  --> in fillout init 
+2014-11-25 1:56:42 - INFO  --> audit:  
+2014-11-25 1:56:42 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:56:42 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:56:42 - INFO  --> MT aud init: 1416898602.6636 
+2014-11-25 1:56:42 - INFO  --> SQL: select a.id audit_id, a.end_date, a.cohort_id, a.status, a.audit_type,
+       a.slipta_official, a.slmta_type, l.id lab_id,
+       l.labname, l.labnum, l.country, l.lablevel, l.labaffil, ao.owner
+  from lab l, audit a, audit_owner ao
+ where a.id = ao.audit_id and ao.owner = 21
+   and l.id = a.lab_id and a.status = 'INCOMPLETE' 
+2014-11-25 1:56:42 - INFO  --> SQL: select dialog_id from dialog where field_name='audit/main' 
+2014-11-25 1:56:42 - INFO  --> SQL: select * from dialog where dialog_id = 7 order by position 
+2014-11-25 1:56:42 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:56:42 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:56:42 - INFO  --> in fillout init 
+2014-11-25 1:56:51 - INFO  --> in fillout init 
+2014-11-25 1:56:51 - INFO  --> audit:  
+2014-11-25 1:56:51 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:56:51 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:56:51 - INFO  --> MT aud init: 1416898611.9892 
+2014-11-25 1:57:25 - INFO  --> in fillout init 
+2014-11-25 1:57:25 - INFO  --> audit:  
+2014-11-25 1:57:25 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:57:25 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:57:25 - INFO  --> MT aud init: 1416898645.3631 
+2014-11-25 1:57:27 - INFO  --> in fillout init 
+2014-11-25 1:57:27 - INFO  --> audit:  
+2014-11-25 1:57:27 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:57:27 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 1:57:27 - INFO  --> MT aud init: 1416898647.5922 
+2014-11-25 2:00:09 - INFO  --> in fillout init 
+2014-11-25 2:00:09 - INFO  --> audit:  
+2014-11-25 2:00:09 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:00:09 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:00:09 - INFO  --> MT aud init: 1416898809.206 
+2014-11-25 2:00:09 - INFO  --> SQL: select dialog_id from dialog where field_name='' 
+2014-11-25 2:00:09 - INFO  --> SQL: select * from dialog where dialog_id = 9 order by position 
+2014-11-25 2:00:09 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:00:09 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:00:09 - INFO  --> in fillout init 
+2014-11-25 2:00:09 - INFO  --> in fillout init 
+2014-11-25 2:00:09 - INFO  --> in fillout init 
+2014-11-25 2:00:09 - INFO  --> SQL: select distinct tag from template_type 
+2014-11-25 2:00:09 - INFO  --> SELECT: audit_type -   
+2014-11-25 2:00:09 - INFO  --> in fillout init 
+2014-11-25 2:00:09 - INFO  --> SELECT: todo -   
+2014-11-25 2:00:09 - INFO  --> in fillout init 
+2014-11-25 2:00:09 - INFO  --> in fillout init 
+2014-11-25 2:00:09 - INFO  --> SQL: select distinct country from lab 
+2014-11-25 2:00:09 - INFO  --> SELECT: country -   
+2014-11-25 2:00:09 - INFO  --> in fillout init 
+2014-11-25 2:00:09 - INFO  --> SELECT: lablevel -   
+2014-11-25 2:00:09 - INFO  --> in fillout init 
+2014-11-25 2:00:09 - INFO  --> SELECT: labaffil -   
+2014-11-25 2:00:09 - INFO  --> in fillout init 
+2014-11-25 2:00:09 - INFO  --> in fillout init 
+2014-11-25 2:00:09 - INFO  --> SELECT: audit_status -   
+2014-11-25 2:00:09 - INFO  --> in fillout init 
+2014-11-25 2:00:09 - INFO  --> SELECT: slmta_type -   
+2014-11-25 2:00:09 - INFO  --> in fillout init 
+2014-11-25 2:00:09 - INFO  --> SQL: select distinct cohort_id from audit 
+2014-11-25 2:00:09 - INFO  --> SELECT: cohortid -   
+2014-11-25 2:00:09 - INFO  --> in fillout init 
+2014-11-25 2:00:09 - INFO  --> in fillout init 
+2014-11-25 2:00:09 - INFO  --> in fillout init 
+2014-11-25 2:00:28 - INFO  --> in fillout init 
+2014-11-25 2:00:28 - INFO  --> audit:  
+2014-11-25 2:00:28 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:00:28 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:00:28 - INFO  --> MT aud init: 1416898828.6811 
+2014-11-25 2:00:28 - INFO  --> SQL: select dialog_id from dialog where field_name='audit/search' 
+2014-11-25 2:00:28 - INFO  --> SQL: select * from dialog where dialog_id = 16 order by position 
+2014-11-25 2:00:28 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:00:28 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:00:28 - INFO  --> in fillout init 
+2014-11-25 2:00:28 - INFO  --> in fillout init 
+2014-11-25 2:00:28 - INFO  --> in fillout init 
+2014-11-25 2:00:28 - INFO  --> SQL: select distinct tag from template_type 
+2014-11-25 2:00:28 - INFO  --> SELECT: audit_type -   
+2014-11-25 2:00:28 - INFO  --> in fillout init 
+2014-11-25 2:00:28 - INFO  --> SELECT: audit_status -   
+2014-11-25 2:00:28 - INFO  --> in fillout init 
+2014-11-25 2:00:28 - INFO  --> in fillout init 
+2014-11-25 2:00:28 - INFO  --> SQL: select distinct country from lab 
+2014-11-25 2:00:28 - INFO  --> SELECT: country -   
+2014-11-25 2:00:28 - INFO  --> in fillout init 
+2014-11-25 2:00:28 - INFO  --> SELECT: lablevel -   
+2014-11-25 2:00:28 - INFO  --> in fillout init 
+2014-11-25 2:00:28 - INFO  --> SELECT: labaffil -   
+2014-11-25 2:00:28 - INFO  --> in fillout init 
+2014-11-25 2:00:28 - INFO  --> in fillout init 
+2014-11-25 2:00:28 - INFO  --> SELECT: slmta_type -   
+2014-11-25 2:00:28 - INFO  --> in fillout init 
+2014-11-25 2:00:28 - INFO  --> SQL: select distinct cohort_id from audit 
+2014-11-25 2:00:28 - INFO  --> COHORTID: Array
+(
+    [0] => Array
+        (
+            [cohort_id] => 3
+        )
+
+    [1] => Array
+        (
+            [cohort_id] => 4
+        )
+
+    [2] => Array
+        (
+            [cohort_id] => 5
+        )
+
+    [3] => Array
+        (
+            [cohort_id] => 
+        )
+
+    [4] => Array
+        (
+            [cohort_id] => 98
+        )
+
+    [5] => Array
+        (
+            [cohort_id] => 9
+        )
+
+    [6] => Array
+        (
+            [cohort_id] => 10
+        )
+
+    [7] => Array
+        (
+            [cohort_id] => 11
+        )
+
+    [8] => Array
+        (
+            [cohort_id] => 12
+        )
+
+    [9] => Array
+        (
+            [cohort_id] => 13
+        )
+
+    [10] => Array
+        (
+            [cohort_id] => 1
+        )
+
+)
+ 
+2014-11-25 2:00:28 - INFO  --> SELECT: cohortid -   
+2014-11-25 2:00:28 - INFO  --> in fillout init 
+2014-11-25 2:00:28 - INFO  --> in fillout init 
+2014-11-25 2:00:28 - INFO  --> in fillout init 
+2014-11-25 2:01:09 - INFO  --> in fillout init 
+2014-11-25 2:01:09 - INFO  --> audit:  
+2014-11-25 2:01:09 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:01:09 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:01:09 - INFO  --> MT aud init: 1416898869.3504 
+2014-11-25 2:01:09 - INFO  --> SQL: select dialog_id from dialog where field_name='' 
+2014-11-25 2:01:09 - INFO  --> SQL: select * from dialog where dialog_id = 9 order by position 
+2014-11-25 2:01:09 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:01:09 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:01:09 - INFO  --> in fillout init 
+2014-11-25 2:01:09 - INFO  --> in fillout init 
+2014-11-25 2:01:09 - INFO  --> in fillout init 
+2014-11-25 2:01:09 - INFO  --> SQL: select distinct tag from template_type 
+2014-11-25 2:01:09 - INFO  --> SELECT: audit_type -   
+2014-11-25 2:01:09 - INFO  --> in fillout init 
+2014-11-25 2:01:09 - INFO  --> SELECT: todo -   
+2014-11-25 2:01:09 - INFO  --> in fillout init 
+2014-11-25 2:01:09 - INFO  --> in fillout init 
+2014-11-25 2:01:09 - INFO  --> SQL: select distinct country from lab 
+2014-11-25 2:01:09 - INFO  --> SELECT: country -   
+2014-11-25 2:01:09 - INFO  --> in fillout init 
+2014-11-25 2:01:09 - INFO  --> SELECT: lablevel -   
+2014-11-25 2:01:09 - INFO  --> in fillout init 
+2014-11-25 2:01:09 - INFO  --> SELECT: labaffil -   
+2014-11-25 2:01:09 - INFO  --> in fillout init 
+2014-11-25 2:01:09 - INFO  --> in fillout init 
+2014-11-25 2:01:09 - INFO  --> SELECT: audit_status -   
+2014-11-25 2:01:09 - INFO  --> in fillout init 
+2014-11-25 2:01:09 - INFO  --> SELECT: slmta_type -   
+2014-11-25 2:01:09 - INFO  --> in fillout init 
+2014-11-25 2:01:09 - INFO  --> SQL: select distinct cohort_id from audit 
+2014-11-25 2:01:09 - INFO  --> SELECT: cohortid -   
+2014-11-25 2:01:09 - INFO  --> in fillout init 
+2014-11-25 2:01:09 - INFO  --> in fillout init 
+2014-11-25 2:01:09 - INFO  --> in fillout init 
+2014-11-25 2:01:47 - INFO  --> in fillout init 
+2014-11-25 2:01:47 - INFO  --> audit:  
+2014-11-25 2:01:47 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:01:47 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:01:47 - INFO  --> MT aud init: 1416898907.8516 
+2014-11-25 2:01:47 - INFO  --> SQL: select dialog_id from dialog where field_name='audit/search' 
+2014-11-25 2:01:47 - INFO  --> SQL: select * from dialog where dialog_id = 16 order by position 
+2014-11-25 2:01:47 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:01:47 - INFO  --> SQL: select def, EN from lang_word 
+2014-11-25 2:01:47 - INFO  --> in fillout init 
+2014-11-25 2:01:47 - INFO  --> in fillout init 
+2014-11-25 2:01:47 - INFO  --> in fillout init 
+2014-11-25 2:01:47 - INFO  --> SQL: select distinct tag from template_type 
+2014-11-25 2:01:47 - INFO  --> SELECT: audit_type -   
+2014-11-25 2:01:47 - INFO  --> in fillout init 
+2014-11-25 2:01:47 - INFO  --> SELECT: audit_status -   
+2014-11-25 2:01:47 - INFO  --> in fillout init 
+2014-11-25 2:01:47 - INFO  --> in fillout init 
+2014-11-25 2:01:47 - INFO  --> SQL: select distinct country from lab 
+2014-11-25 2:01:47 - INFO  --> SELECT: country -   
+2014-11-25 2:01:47 - INFO  --> in fillout init 
+2014-11-25 2:01:47 - INFO  --> SELECT: lablevel -   
+2014-11-25 2:01:47 - INFO  --> in fillout init 
+2014-11-25 2:01:48 - INFO  --> SELECT: labaffil -   
+2014-11-25 2:01:48 - INFO  --> in fillout init 
+2014-11-25 2:01:48 - INFO  --> in fillout init 
+2014-11-25 2:01:48 - INFO  --> SELECT: slmta_type -   
+2014-11-25 2:01:48 - INFO  --> in fillout init 
+2014-11-25 2:01:48 - INFO  --> SQL: select distinct cohort_id from audit 
+2014-11-25 2:01:48 - INFO  --> COHORTID: Array
+(
+    [0] => Array
+        (
+            [cohort_id] => 3
+        )
+
+    [1] => Array
+        (
+            [cohort_id] => 4
+        )
+
+    [2] => Array
+        (
+            [cohort_id] => 5
+        )
+
+    [3] => Array
+        (
+            [cohort_id] => 
+        )
+
+    [4] => Array
+        (
+            [cohort_id] => 98
+        )
+
+    [5] => Array
+        (
+            [cohort_id] => 9
+        )
+
+    [6] => Array
+        (
+            [cohort_id] => 10
+        )
+
+    [7] => Array
+        (
+            [cohort_id] => 11
+        )
+
+    [8] => Array
+        (
+            [cohort_id] => 12
+        )
+
+    [9] => Array
+        (
+            [cohort_id] => 13
+        )
+
+    [10] => Array
+        (
+            [cohort_id] => 1
+        )
+
+)
+ 
+2014-11-25 2:01:48 - INFO  --> SELECT: cohortid -   
+2014-11-25 2:01:48 - INFO  --> in fillout init 
+2014-11-25 2:01:48 - INFO  --> in fillout init 
+2014-11-25 2:01:48 - INFO  --> in fillout init 

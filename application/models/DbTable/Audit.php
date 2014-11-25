@@ -144,7 +144,7 @@ END;
             break;
           case 'enddate' :
             if ($b != '') {
-              $dval = convert_ISO($b);
+              $dval = Checklist_Modules_Datefns::convert_ISO($b);
               $this->log->logit("Date: {$dval->format($this->ISOformat)}");
               $sql .= " and a.end_date <= '{$dval->format($this->ISOformat)}' ";
             }
