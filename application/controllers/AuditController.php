@@ -1054,9 +1054,16 @@ class AuditController extends Checklist_Controller_Action
         $showlines[] = "<span style=\"color:black;font-weight:normal;\">{$u['name']}</span><br />";
       }
       $showlines[] = '</table></div>';
+    
+      $this->view->showlines = implode("\n", $showlines);
+      $this->_helper->layout->setLayout('overall');
     }
-    $this->view->showlines = implode("\n", $showlines);
-    $this->_helper->layout->setLayout('overall');
+    else{
+      $this->session->flash = 'Please select an audit.';
+      $this->dialog_name = 'audit/search';
+      $this->makeDialog();
+      return;
+    }
   }
 
 }
